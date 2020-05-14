@@ -1,0 +1,54 @@
+.ssmHdr {
+color: white;
+font: bold 12px verdana;
+	}
+
+.ssmHdr:link {
+color: white;
+text-decoration: none;
+	}
+
+.ssmHdr:visited {
+color: white;
+text-decoration: none;
+	}
+
+.ssmHdr:hover {
+color: white;
+text-decoration: underline;
+	}
+
+.ssmHdr:active {
+color: white;
+text-decoration: underline;
+	}
+
+.ssmItem {
+color: white;
+font: 12px verdana;
+	}
+
+.ssmItem:link {
+color: white;
+text-decoration: none;
+	}
+
+.ssmItem:visited {
+color: white;
+text-decoration: none;
+	}
+
+.ssmItem:hover {
+color: white;
+text-decoration: underline;
+	}
+
+.ssmItem:active {
+color: white;
+text-decoration: underline;
+	}
+
+.ssmBar {
+color: white;
+font: bold 12px verdana;
+	}

@@ -1,0 +1,4 @@
+<?php
+$name=_("lilac");
+$description=_("White background - green metal bars,  green text");
+?>

@@ -1,0 +1,44 @@
+
+@font-face {
+	font-family: Chiller;
+	src: url('fonts/CHILLER.woff') format('woff'), url('fonts/CHILLER.ttf') format('truetype'), url('fonts/CHILLER.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+.style2 {
+  font-family: Chiller;
+  color: #00ff00;
+  font-size: xx-large;
+}
+.style3 {
+  font-family: Chiller;
+  font-weight: bold;
+  font-size: 36px;
+}
+.style4 {
+  font-size: x-large;
+  font-family: "Chiller";
+}
+body, td, th {
+  font-family: 'CHILLER',Mistral,Arial Black;
+  font-size: x-large;
+  color: #000000;
+}
+.mainbg {
+  background-color: #f0f0f0;
+  background-image: url(../pics/coverpic%20big2.jpg);
+}
+body.right-side {
+  font-size: x-large;
+  background-color: #000000;
+}
+.redtitle {
+  font-family: 'CHILLER',mistral,"arial black";
+  font-size: xx-large;
+  color: #ff0000;
+  font-weight: bold;
+}

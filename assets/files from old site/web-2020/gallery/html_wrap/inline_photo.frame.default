@@ -1,0 +1,6 @@
+<?php
+/* $Id: inline_photo.frame.default,v 1.5 2004/03/02 14:10:38 jenst Exp $ */
+?>
+<?php
+	include (dirname(__FILE__) . '/inline_imagewrap.inc');
+?>

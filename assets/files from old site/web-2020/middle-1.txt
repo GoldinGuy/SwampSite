@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>middle</title>
+<style type="text/css">
+<!--
+body,td,th {
+	font-family: Chiller, Mistral, Arial Black;
+	font-size: large;
+	color: #00FF00;
+}
+body {
+	background-color: #000000;
+	background-image: url(pics/coverpic%20big.jpg);
+}
+.style1 {
+	font-size: xx-large;
+	font-weight: bold;
+	color: #000000;
+}
+.style4 {font-size: 36px; font-weight: bold; color: #000000; }
+-->
+</style>
+<script type="text/javascript">
+function MM_CheckFlashVersion(reqVerStr,msg){
+  with(navigator){
+    var isIE  = (appVersion.indexOf("MSIE") != -1 && userAgent.indexOf("Opera") == -1);
+    var isWin = (appVersion.toLowerCase().indexOf("win") != -1);
+    if (!isIE || !isWin){  
+      var flashVer = -1;
+      if (plugins && plugins.length > 0){
+        var desc = plugins["Shockwave Flash"] ? plugins["Shockwave Flash"].description : "";
+        desc = plugins["Shockwave Flash 2.0"] ? plugins["Shockwave Flash 2.0"].description : desc;
+        if (desc == "") flashVer = -1;
+        else{
+          var descArr = desc.split(" ");
+          var tempArrMajor = descArr[2].split(".");
+          var verMajor = tempArrMajor[0];
+          var tempArrMinor = (descArr[3] != "") ? descArr[3].split("r") : descArr[4].split("r");
+          var verMinor = (tempArrMinor[1] > 0) ? tempArrMinor[1] : 0;
+          flashVer =  parseFloat(verMajor + "." + verMinor);
+        }
+      }
+      // WebTV has Flash Player 4 or lower -- too low for video
+      else if (userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 4.0;
+
+      var verArr = reqVerStr.split(",");
+      var reqVer = parseFloat(verArr[0] + "." + verArr[2]);
+  
+      if (flashVer < reqVer){
+        if (confirm(msg))
+          window.location = "http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+      }
+    }
+  } 
+}
+</script>
+</head>
+
+<body onload="MM_CheckFlashVersion('7,0,0,0','Content on this page requires a newer version of Macromedia Flash Player. Do you want to download it now?');">
+<table width="100%" height="100%" border="0" align="center" cellpadding="0" cellspacing="0" id="main">
+  <tr>
+    <td width="48%" height="614"><div align="center">
+      <p class="style4">Mission:</p>
+      <p class="style4">We strive to unite students, educators, and engineers while creating a robust, highly competitive robot.</p>
+      <p class="style4">We will do this by possessing a can-do attitude, learning about the necessary technologies involved, and studying each year's game challenge. Our goal is to learn to accomplish technical work together and maintain a positive attitude and gracious professionalism at all times, both on and off the playing fiel</p>
+      <p class="style1">TRY THIS NEW SITE OUT, STILL UNDER CONSTRUCTION</p>
+      <p class="style1"><a href="https://sites.google.com/site/179swampthing/" target="_self">PLEASE CLICK HERE FOR TEMP SITE INFO</a></p>
+      <p class="style1"><a href="local kickoff.html">CLICK HERE FOR INFORMATION ON OUR LOCAL KICKOFF FOR NEW 2014 GAME</a> </p>
+    </div></td>
+    <td width="52%" height="614"><div align="center">
+      <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="600" height="400" id="FLVPlayer">
+        <param name="movie" value="FLVPlayer_Progressive.swf" />
+        <param name="salign" value="lt" />
+        <param name="quality" value="high" />
+        <param name="scale" value="noscale" />
+        <param name="FlashVars" value="&MM_ComponentVersion=1&skinName=Clear_Skin_1&streamName=files/main_video&autoPlay=true&autoRewind=true" />
+        <embed src="FLVPlayer_Progressive.swf" flashvars="&MM_ComponentVersion=1&skinName=Clear_Skin_1&streamName=files/main_video&autoPlay=true&autoRewind=true" quality="high" scale="noscale" width="600" height="400" name="FLVPlayer" salign="LT" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />        
+</object></div></td>
+  </tr>
+</table>
+
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="600" height="400">
+<param name="movie" value="files/My VideosMovie_0001_(new).swf" /><param name="wmode" value="transparent" />
+<!--[if !IE]>--><object type="application/x-shockwave-flash" data="files/My VideosMovie_0001_(new).swf" width="600" height="400"><param name="wmode" value="transparent" /><!--<![endif]-->
+
+
+</body>
+</html>

@@ -1,0 +1,1877 @@
+# Webalizer V2.01-10 Incremental Data - 09/18/2005 22:37:23
+2005 9 18 22 37 23
+4360 3010 248 239 94 81 169867176 1136 495 0
+51 2 336 1 18
+112 94 7344706 23 44 28
+311 232 37828342 12 86 33
+21 18 931444 10 14 9
+119 104 3545049 14 35 24
+162 75 14953181 14 49 22
+424 352 10002150 26 126 48
+203 162 9506161 31 52 27
+268 77 5393253 17 66 22
+263 202 6187523 16 48 21
+135 90 6442303 18 32 19
+49 21 117315 17 18 13
+282 215 10318604 19 66 29
+519 309 16139434 9 78 25
+360 342 11943427 45 89 46
+196 131 10473976 18 45 24
+348 224 7504641 17 124 24
+324 148 3015763 11 78 26
+264 214 8219904 51 86 55
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+22 15 484986 11
+18 11 362624 11
+73 61 2396296 16
+56 40 748473 15
+188 131 5103387 56
+278 227 14329376 61
+171 161 6868761 42
+30 23 1409207 14
+132 122 3592265 43
+178 152 4552780 91
+117 44 1852394 20
+467 283 16857197 140
+189 173 6797780 49
+556 328 10482151 86
+281 200 11499298 70
+109 94 3920155 32
+162 145 3421811 39
+167 69 6096229 40
+197 172 8858244 46
+528 337 31664311 116
+260 99 18672037 71
+79 56 3095792 34
+85 56 4484635 26
+17 11 2316987 7
+0
+0
+0
+3010
+0
+0
+0
+0
+0
+40
+0
+1
+0
+0
+728
+0
+0
+0
+0
+0
+1
+564
+16
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/docs/calendar_04-05.xls
+0 4 4294967295 94208 0 0
+/members/memberDanielErenrich.html
+0 3 4294967295 4932 1 1
+/images/nav7.jpg
+0 78 4294967295 1007181 0 0
+/images/RobotShowcase_2004-2005.jpg
+0 21 4294967295 793568 0 0
+/resources/autocad/Spamthingacon.dwg
+0 7 4294967295 11312933 0 0
+/images/00023.JPG
+0 2 4294967295 384018 0 0
+/
+0 162 4294967295 340979 139 45
+/newsletter4-04.doc
+0 13 4294967295 2042880 0 0
+/donate.html
+0 9 4294967295 14112 4 1
+/images/00034.JPG
+0 1 4294967295 212220 0 0
+/images/thumb00007.jpg
+0 15 4294967295 333580 0 0
+/gallerypictures2003-2004l.html
+0 6 4294967295 8646 0 3
+/teammentors.html
+0 10 4294967295 20280 3 3
+/images/autocad2.gif
+0 9 4294967295 2315 0 0
+/images/thumb00018.jpg
+0 12 4294967295 268160 0 0
+/galleryvideos.html
+0 26 4294967295 187330 7 13
+/members/mentorJohnKrumlauf.html
+0 2 4294967295 3356 1 1
+/teammembers.html
+0 17 4294967295 57392 5 2
+/news_02-12-2005.html
+0 1 4294967295 1832 0 1
+/images/00011.JPG
+0 1 4294967295 199972 0 0
+/images/thumb00029.jpg
+0 8 4294967295 213120 0 0
+/schedule/march2005.html
+0 4 4294967295 25868 1 1
+/galleryourrobots2003-2004.html
+0 13 4294967295 18408 3 3
+/resources/autocad/Mecanum_Treads.dwg
+0 6 0 1813382 0 0
+/images/thumb00006.jpg
+0 15 0 357734 0 0
+/videos/RobotShowcase_2003-2004.wmv
+0 2 0 5802625 0 0
+/schedule.html
+0 43 0 54003 14 10
+/images/autocad1.gif
+0 9 0 66305 0 0
+/images/thumb00017.jpg
+0 12 0 239750 0 0
+/gallerypictures2003-2004m.html
+0 6 0 7854 1 3
+/members/images/memberZacharyLevine.jpg
+0 1 0 24368 0 0
+/resources/autocad/Omni_Hoverbot_Alternative_Fan.dwg
+0 18 0 11956684 0 0
+/members/images/notavailable.jpg
+0 4 0 30740 0 0
+/images/thumb00028.jpg
+0 10 0 238293 0 0
+/members/images/email.gif
+0 16 0 5312 0 0
+/images/nav5.jpg
+0 88 0 927960 0 0
+/images/00021.JPG
+0 1 0 207481 0 0
+/images/thumb00039.jpg
+0 5 0 126615 0 0
+/members/memberAndrewHerndon.html
+0 6 0 10194 5 1
+/members/memberDavidEngelhardt.html
+0 2 0 3292 1 0
+/images/arrowspacer.gif
+0 17 0 1020 0 0
+/schedule/september2005.html
+0 2 0 12868 1 2
+/images/00032.JPG
+0 3 0 629490 0 0
+/images/thumb00005.jpg
+0 15 0 352768 0 0
+/schedule/images/print.gif
+0 11 0 6966 0 0
+/images/00043.JPG
+0 2 0 411532 0 0
+/images/thumb00016.jpg
+0 12 0 248300 0 0
+/images/nav2Hi.jpg
+0 94 0 1056600 0 0
+/gallerypictures2003-2004a.html
+0 21 0 25722 3 8
+/images/thumb00027.jpg
+0 10 0 212805 0 0
+/images/nav4.jpg
+0 91 0 966184 0 0
+/images/thumb00038.jpg
+0 5 1074491120 129315 0 0
+/images/thumb00004.jpg
+0 17 224988535 379215 0 0
+/images/thumb00049.jpg
+0 5 99 120430 0 0
+/galleryourrobots2001-2002.html
+0 13 112 19682 4 2
+/calendar05_06.xls
+0 11 43 232448 0 0
+/schedule/docs/calendar_04-05.xls
+0 4 78 47104 0 0
+/images/email.gif
+0 5 122 1660 0 0
+/images/thumb00015.jpg
+0 13 0 253300 0 0
+/news_03-01-2005.html
+0 2 0 2212 1 1
+/images/thumb00026.jpg
+0 10 0 185152 0 0
+/news_01-08-2005.html
+0 3 0 4524 2 1
+/images/nav3.jpg
+0 93 0 996540 0 0
+/gallerypictures2003-2004b.html
+0 18 0 23056 9 6
+/members/memberupdate.html
+0 4 0 5820 2 2
+/images/thumb00037.jpg
+0 5 0 137905 0 0
+/images/index_05.jpg
+0 72 0 463045 0 0
+/images/thumb00003.jpg
+0 17 0 394860 0 0
+/images/thumb00048.jpg
+0 5 0 129460 0 0
+/members/images/memberNicholasFerreira.jpg
+0 2 0 46622 0 0
+/videos/RobotShowcase_2001-2002.mov
+0 2 0 15482880 0 0
+/images/thumb00014.jpg
+0 13 0 297616 0 0
+/contact.html
+0 12 0 15624 6 4
+/resources/autocad/Sprockets.dwg
+0 4 0 73848 0 0
+/images/00052.JPG
+0 1 0 219806 0 0
+/images/thumb00025.jpg
+0 10 0 200736 0 0
+/aboutus.html
+0 14 0 24258 8 2
+/images/arrowp.gif
+0 17 0 6225 0 0
+/images/nav2.jpg
+0 97 0 1091262 0 0
+/images/thumb00036.jpg
+0 5 0 126605 0 0
+/gallerypictures2003-2004c.html
+0 17 0 21615 5 4
+/images/index_04.jpg
+0 75 0 434304 0 0
+/images/thumb00002.jpg
+0 17 0 422640 0 0
+/images/thumb00047.jpg
+0 5 0 124710 0 0
+/members/memberTrudiBrown.html
+0 2 0 3276 0 0
+/comingsoon.html
+0 31 0 24853 3 6
+/images/thumb00013.jpg
+0 13 0 296054 0 0
+/members/mentorDanQuiggle.html
+0 2 0 3364 0 1
+/images/thumbRobotShowcase_2001-2002.jpg
+0 10 0 397970 0 0
+/images/thumb00024.jpg
+0 10 0 202872 0 0
+/images/nav1.jpg
+0 103 0 1089510 0 0
+/members/mentorHenryStark.html
+0 2 811819309 3310 0 1
+/images/thumb00035.jpg
+0 5 1630435704 132415 0 0
+/members/memberGiordonStark.html
+0 5 0 8165 3 3
+/images/index_03.jpg
+0 74 808529459 2387445 0 0
+/newsletter8-05.doc
+0 9 841888055 1627648 0 0
+/images/nav5Hi.jpg
+0 81 780039984 872575 0 0
+/images/thumb00001.jpg
+0 17 758397233 383910 0 0
+/images/thumb00046.jpg
+0 5 2037935986 119740 0 0
+/members/mentorMarkWall.html
+0 3 0 4809 2 0
+/gallerypictures2003-2004d.html
+0 16 811688237 20174 4 4
+/members/memberAmandaMackintosh.html
+0 5 0 8225 3 1
+/members/memberUmitAslan.html
+0 3 67 4968 1 1
+/images/thumb00012.jpg
+0 14 1630364532 291588 0 0
+/images/thumb00023.jpg
+0 11 1731082547 225453 0 0
+/members/mentorBobAllison.html
+0 4 0 4965 2 0
+/images/arrown.gif
+0 17 841889334 6090 0 0
+/members/images/memberAndrewHerndon.jpg
+0 9 959722029 79134 0 0
+/resources/autocad/Micro_Mecanum.dwg
+0 11 233246194 1555245 0 0
+/images/thumbRobotShowcase_2002-2003.jpg
+0 8 0 470024 0 0
+/images/thumb00034.jpg
+0 5 0 132680 0 0
+/schedule/april2005.html
+0 5 0 34205 1 1
+/news_02-08-2005.html
+0 3 0 4298 2 1
+/members/memberTashaunaGraham.html
+0 2 0 3300 0 1
+/images/thumb00045.jpg
+0 5 0 122445 0 0
+/news_02-19-2005.html
+0 1 0 1319 0 0
+/resources.html
+0 13 0 7248 3 5
+/members/memberUnderConstruction.html
+0 6 0 5286 3 4
+/images/thumb00011.jpg
+0 14 0 290148 0 0
+/galleryourrobots2004-2005.html
+0 24 0 26271 4 12
+/images/00009.JPG
+0 1 0 197921 0 0
+/gallerypictures2003-2004e.html
+0 13 0 15851 4 3
+/images/nav7.gif
+0 75 0 737180 0 0
+/images/thumb00022.jpg
+0 10 0 240579 0 0
+/home.html
+0 91 0 111510 36 15
+/sponsors.html
+0 11 0 17985 3 4
+/images/thumb00033.jpg
+0 5 0 131985 0 0
+/images/index_01.jpg
+0 83 0 3363304 0 0
+/images/thumbRobotShowcase_2003-2004.jpg
+0 9 0 398208 0 0
+/images/thumb00044.jpg
+0 5 0 128420 0 0
+/news_04-18-2005.html
+0 2 0 1530 2 0
+/members/images/memberTytusGerrish.jpg
+0 2 0 61406 0 0
+/images/thumb00010.jpg
+0 14 0 292824 0 0
+/images/00008.JPG
+0 2 0 380846 0 0
+/videos/2005capevolution.wmv
+0 27 0 36445226 0 0
+/images/thumb00021.jpg
+0 10 0 243756 0 0
+/images/sound.swf
+0 101 0 16354608 0 0
+/gallerypictures2003-2004f.html
+0 11 0 14410 2 3
+/images/thumb00032.jpg
+0 8 0 222232 0 0
+/images/thumbv00001.jpg
+0 20 0 421902 0 0
+/images/nav3Hi.jpg
+0 90 0 988604 0 0
+/images/thumb00043.jpg
+0 5 1785462784 131440 0 0
+/members/mentorMarkGross.html
+0 2 7171939 3392 1 0
+/members/mentorLourdesAvellana.html
+0 2 775108145 3286 0 0
+/news_03-13-2005.html
+0 2 1127120503 1502 1 0
+/images/00007.JPG
+0 4 0 916988 0 0
+/images/thumb00020.jpg
+0 12 892743028 266400 0 0
+/images/00018.JPG
+0 5 1634886400 646710 0 0
+/images/thumb00031.jpg
+0 8 825699641 211320 0 0
+/forums.html
+0 42 775370285 28800 14 11
+/galleryourrobots2002-2003.html
+0 11 0 16676 3 6
+/gallerypictures2003-2004g.html
+0 11 67 14410 0 3
+/images/thumb00042.jpg
+0 5 825058414 133500 0 0
+/images/capevolutionthumb.jpg
+0 20 778401379 196398 0 0
+/images/00006.JPG
+0 3 905969664 623931 0 0
+/schedule/december2005.html
+0 1 0 7608 1 0
+/images/00017.JPG
+0 1 0 193588 0 0
+/members/memberVanessaBrissault.html
+0 2 1768779636 3320 0 1
+/images/thumb00030.jpg
+0 8 0 197832 0 0
+/images/nav7Hi.gif
+0 72 842281262 716595 0 0
+/info.html
+0 40 762083169 63756 10 12
+/members/memberJaySternfield.html
+0 6 892496492 8225 5 2
+/images/00028.JPG
+0 1 1110914868 202324 0 0
+/members/images/aim.gif
+0 15 1953456741 4320 0 0
+/images/thumb00041.jpg
+0 5 0 132205 0 0
+/members/mentorUnderConstruction.html
+0 6 2002874979 5286 4 2
+/gallerypictures2003-2004h.html
+0 9 3457 12969 2 2
+/images/thumb00052.jpg
+0 5 0 125965 0 0
+/images/00005.JPG
+0 2 0 419128 0 0
+/members/images/memberMarcusHill.jpg
+0 1 0 22036 0 0
+/_vti_bin/shtml.exe/_vti_rpc
+0 10 0 2010 0 0
+/newsletter2-05.doc
+0 4 0 1177600 0 0
+/news_02-14-2005.html
+0 3 0 3160 3 0
+/images/00016.JPG
+0 3 0 582768 0 0
+/members/memberJasonCadenhead.html
+0 4 0 6668 3 1
+/members/memberDavidWallace.html
+0 3 0 3366 2 1
+/members/memberMarcusHill.html
+0 5 0 8245 4 2
+/members/memberWendyBrissault.html
+0 5 0 8390 1 1
+/resources/autocad.html
+0 18 0 29826 12 8
+/news_02-06-2005.html
+0 3 0 3282 3 0
+/images/nav1Hi.jpg
+0 89 0 929972 0 0
+/docs/calendar05_06.xls
+0 5 0 72192 0 0
+/links.html
+0 5 0 8395 1 2
+/images/thumb00040.jpg
+0 5 0 129535 0 0
+/images/RobotShowcase_2001-2002.jpg
+0 2 0 95656 0 0
+/schedule/october2005.html
+0 1 0 7674 1 0
+/members/memberTytusGerrish.html
+0 4 0 6660 2 2
+/images/thumb00051.jpg
+0 5 0 132175 0 0
+/members/memberNikhilOllukaren.html
+0 2 0 3316 0 0
+/images/00004.JPG
+0 6 0 1313682 0 0
+/images/00049.JPG
+0 1 0 195344 0 0
+/gallerypictures2003-2004i.html
+0 6 0 8646 2 2
+/gallery.html
+0 59 0 58947 27 6
+/members/memberAndreaLehman.html
+0 6 0 8265 3 2
+/images/00015.JPG
+0 2 0 411980 0 0
+/schedule/february2005.html
+0 4 0 25816 1 1
+/members/mentorChetZientek.html
+0 2 0 3342 1 1
+/news.html
+0 32 0 48180 14 11
+/members/memberShawnWalters.html
+0 7 0 11774 3 1
+/members/memberMichaelBusbin.html
+0 4 0 5043 2 2
+/images/thumb00050.jpg
+0 5 0 127380 0 0
+/resources/images/download.gif
+0 13 0 3560 0 0
+/images/00003.JPG
+0 1 0 211055 0 0
+/members/images/memberWendyBrissault.jpg
+0 2 0 50520 0 0
+/resources/disclaimer.html
+0 2 0 2626 2 1
+/images/thumbteam1.jpg
+0 11 0 450680 0 0
+/schedule/november2005.html
+0 1 0 7304 1 0
+/images/00014.JPG
+0 1 0 213077 0 0
+/gallerypictures2003-2004j.html
+0 6 0 8646 0 2
+/images/nav9.jpg
+0 75 0 545722 0 0
+/images/00025.JPG
+0 1 0 222738 0 0
+/members/memberMichaelMeister.html
+0 3 0 4989 1 2
+/images/thumb00009.jpg
+0 14 0 292572 0 0
+/images/00002.JPG
+0 1 0 210126 0 0
+/images/00047.JPG
+0 1 0 220439 0 0
+/gallerypictures.html
+0 34 0 39390 11 3
+/galleryourrobots.html
+0 28 0 29876 7 2
+/aboutfirst.html
+0 17 0 22789 7 3
+/resources/autocad/Tytus_Wheel_Module_Internal_Gearbox.dwg
+0 7 0 6465297 0 0
+/images/RobotShowcase_2003-2004.jpg
+0 1 0 623393 0 0
+/Admin Policies.doc
+0 6 0 2586624 0 0
+/images/00013.JPG
+0 1 0 209583 0 0
+/members/memberChrisAzeredo.html
+0 3 0 4944 1 0
+/images/nav8.jpg
+0 76 0 500830 0 0
+/resources/autocad/Autocad_Wheel_Model.dwg
+0 4 0 4959136 0 0
+/members/memberNicholasFerreira.html
+0 6 0 10242 3 0
+/gallerypictures2003-2004k.html
+0 6 0 8646 1 1
+/members/images/memberShawnWalters.jpg
+0 2 0 52118 0 0
+/images/00035.JPG
+0 1 0 203207 0 0
+/images/thumb00008.jpg
+0 15 0 323687 0 0
+/images/team1.jpg
+0 1 0 297652 0 0
+/images/videonull.jpg
+0 20 0 224550 0 0
+/images/00001.JPG
+0 5 0 1000820 0 0
+/images/00046.JPG
+0 1 0 190046 0 0
+/images/thumb00019.jpg
+0 12 0 250780 0 0
+/images/nav4Hi.jpg
+0 88 0 976745 0 0
+/schedule/january2005.html
+0 13 0 92488 5 2
+/members/memberZacharyLevine.html
+0 4 0 5007 1 1
+/images/00012.JPG
+0 2 0 400190 0 0
+# End Of Table - urls
+# -sites- (monthly)
+lj2242.inktomisearch.com
+0 1 0 0 1 1126215099
+/news_02-06-2005.html
+adsl-149-15-212.mia.bellsouth.net
+0 45 30 645678 2 1126444991
+/comingsoon.html
+cache-rtc-ac07.proxy.aol.com
+0 1 1 24064 0 0
+-
+cache-dtc-ac02.proxy.aol.com
+0 1 1 415 0 0
+-
+pc-76-30-215-201.cm.vtr.net
+0 2 2 3364 1 1126560041
+/members/memberShawnWalters.html
+66-194-6-72.gen.twtelecom.net
+0 4 1 3905 4 1127026553
+-
+crawl-66-249-64-47.googlebot.com
+0 2 1 204 1 1126567450
+/
+lj2128.inktomisearch.com
+0 1 0 0 1 1126389566
+/members/memberAndreaLehman.html
+66-194-6-83.gen.twtelecom.net
+0 2 1 3449 2 1126492907
+/
+lj2350.inktomisearch.com
+0 1 1 1441 1 1126202374
+/gallerypictures2003-2004d.html
+204.246.129.196
+0 20 20 63843 7 1126686413
+/home.html
+crawl-66-249-71-42.googlebot.com
+0 2 1 204 1 1126661705
+/
+crawl-66-249-64-58.googlebot.com
+0 3 1 0 2 1127011910
+/
+msnbot.msn.com
+0 162 125 13505069 60 1127076454
+/forums.html
+216.142.43.20
+0 2 2 4903 1 1126387447
+/members/memberShawnWalters.html
+crawl-66-249-71-53.googlebot.com
+0 2 1 204 1 1125864183
+/
+lj2406.inktomisearch.com
+0 1 0 0 1 1127055503
+/members/memberDavidWallace.html
+dialup-4.154.28.133.dial1.atlanta1.level3.net
+0 23 22 443137 1 1125837536
+/home.html
+68-235-224-189.atlsfl.adelphia.net
+0 100 63 1667506 5 1126763444
+/teammembers.html
+cache-rtc-aa09.proxy.aol.com
+0 2 2 25420 0 0
+-
+lj2553.inktomisearch.com
+0 1 0 0 1 1125568128
+/news_02-14-2005.html
+cache-dtc-aa04.proxy.aol.com
+0 4 4 102436 0 0
+-
+lst-amand-152-31-4-160.w82-127.abo.wanadoo.fr
+0 2 2 6442 2 1127022776
+/
+cjy178.neoplus.adsl.tpnet.pl
+0 2 0 435 1 1126798219
+-
+69-163-160-79.atlsfl.adelphia.net
+0 48 45 1249275 2 1126265729
+/home.html
+lj2016.inktomisearch.com
+0 1 1 1678 1 1126377248
+/members/memberWendyBrissault.html
+crawl-66-249-64-18.googlebot.com
+0 2 1 23552 0 0
+-
+cache-dtc-af05.proxy.aol.com
+0 1 1 15865 0 0
+-
+66-194-6-77.gen.twtelecom.net
+0 6 3 10347 6 1126769544
+-
+lj2163.inktomisearch.com
+0 1 0 0 0 0
+-
+adsl-3-164-151.mia.bellsouth.net
+0 69 40 709864 3 1126535289
+/news.html
+crawl-66-249-71-13.googlebot.com
+0 1 1 0 1 1126900810
+/
+117-159.119-70.tampabay.res.rr.com
+0 82 77 4490041 7 1126536611
+/galleryourrobots2001-2002.html
+cache-dtc-ac06.proxy.aol.com
+0 3 3 439386 2 1126686276
+/gallerypictures2003-2004c.html
+165.161.3.12
+0 116 116 5189566 11 1125987676
+/forums.html
+dsl-201-154-3-98.prod-infinitum.com.mx
+0 4 4 25638 1 1125924537
+/members/memberNicholasFerreira.html
+lj2547.inktomisearch.com
+0 1 1 800 1 1125710959
+/forums.html
+modemcable094.120-81-70.mc.videotron.ca
+0 1 1 1015808 0 0
+-
+crawl-66-249-64-33.googlebot.com
+0 3 2 3318 3 1127039566
+/members/mentorBobAllison.html
+lj2558.inktomisearch.com
+0 3 0 612 0 0
+-
+cache-dtc-ad07.proxy.aol.com
+0 1 1 1313 1 1126686247
+/gallerypictures.html
+c-24-130-136-253.hsd1.ca.comcast.net
+0 158 65 4829016 7 1126891208
+/links.html
+crawl-66-249-64-44.googlebot.com
+0 2 1 204 1 1125963884
+/
+ip-202.net-80-236-73.issy.rev.numericable.fr
+0 2 2 851968 0 0
+-
+lj2388.inktomisearch.com
+0 1 1 1753 1 1126525909
+/aboutfirst.html
+crawl-66-249-71-57.googlebot.com
+0 2 1 204 1 1126815223
+/
+lj2569.inktomisearch.com
+0 5 0 1020 0 0
+-
+dialup.194.158.208.244.belpak.by
+0 2 1 131289 0 0
+-
+crawl-66-249-64-55.googlebot.com
+0 2 1 7608 1 1127016597
+/schedule/december2005.html
+lj2474.inktomisearch.com
+0 1 1 3314 1 1126885589
+/resources/autocad.html
+cache-dtc-aa08.proxy.aol.com
+0 5 5 108916 1 1126686308
+/schedule.html
+p5488a5c1.dip0.t-ipconnect.de
+0 9 7 937253 2 1126320688
+/resources/autocad.html
+crawl-66-249-71-50.googlebot.com
+0 2 1 204 1 1126393042
+/
+crawl-66-249-64-66.googlebot.com
+0 2 1 7674 1 1127021821
+/schedule/october2005.html
+lj2560.inktomisearch.com
+0 11 0 2244 0 0
+-
+216.168.237.77
+0 46 46 1314160 3 1125629269
+/
+lj2107.inktomisearch.com
+0 1 1 1866 1 1126208407
+/aboutus.html
+29palms-cuda1-68-170-41-49.losaca.adelphia.net
+0 103 100 2659366 5 1126630214
+/gallery.html
+64.210.196.197
+0 15 14 491154 1 1127034839
+/home.html
+cache-dtc-aa01.proxy.aol.com
+0 3 3 52355 1 1126686451
+/forums.html
+12.175.0.44
+0 2 2 13906981 0 0
+-
+cache-dtc-ae01.proxy.aol.com
+0 1 1 68 0 0
+-
+66-194-6-73.gen.twtelecom.net
+0 3 3 9663 3 1127061271
+/
+24-236-190-222.dhcp.mrqt.mi.charter.com
+0 45 32 3625201 3 1126554238
+/
+cpe-66-27-64-47.san.res.rr.com
+0 53 36 662488 3 1126899066
+/sponsors.html
+adsl-2-236-90.mia.bellsouth.net
+0 224 71 1241231 14 1126989538
+/schedule.html
+crawl-66-249-71-72.googlebot.com
+0 5 1 24064 2 1126044319
+/schedule.html
+24-50-26-55.atlsfl.adelphia.net
+0 30 24 635338 1 1126356932
+/news.html
+lj2351.inktomisearch.com
+0 1 1 1648 1 1126084514
+/members/memberChrisAzeredo.html
+crawl-66-249-64-15.googlebot.com
+0 4 2 408 2 1127075994
+/
+cache-dtc-ab02.proxy.aol.com
+0 2 2 26212 0 0
+-
+cache-dtc-af02.proxy.aol.com
+0 4 4 53521 1 1126686460
+/info.html
+crawl-66-249-71-28.googlebot.com
+0 5 2 4866 4 1127055404
+/members/memberAmandaMackintosh.html
+doolittle30-237.resnet.db.erau.edu
+0 312 122 4123237 7 1126618645
+/gallerypictures2003-2004i.html
+cache-rtc-aa10.proxy.aol.com
+0 16 16 233716 0 0
+-
+lj2045.inktomisearch.com
+0 1 1 1302 1 1126752393
+/contact.html
+crawl-66-249-71-10.googlebot.com
+0 2 1 204 1 1126210017
+/
+crawl-66-249-71-39.googlebot.com
+0 1 1 294400 0 0
+-
+adsl-065-005-218-165.sip.cae.bellsouth.net
+0 378 145 14176797 14 1126177202
+/galleryourrobots2002-2003.html
+crawl-66-249-64-37.googlebot.com
+0 5 4 296435 3 1127056461
+/members/memberMarcusHill.html
+crawl-66-249-71-32.googlebot.com
+0 3 0 217 2 1127018756
+-
+66.234.139.206
+0 1 1 3221 1 1126506186
+/
+cache-rtc-ac01.proxy.aol.com
+0 8 8 229108 0 0
+-
+crawl-66-249-64-30.googlebot.com
+0 1 1 291840 0 0
+-
+cache-rtc-ad09.proxy.aol.com
+0 1 1 332 0 0
+-
+lj2259.inktomisearch.com
+0 1 0 0 0 0
+-
+dsl5400be97.pool.t-online.hu
+0 43 43 141155 1 1126007455
+/schedule/march2005.html
+cache-dtc-ad04.proxy.aol.com
+0 4 4 105341 0 0
+-
+66-194-6-78.gen.twtelecom.net
+0 2 0 456 2 1126461725
+-
+cache-rtc-ad02.proxy.aol.com
+0 1 1 288 0 0
+-
+lj1342.inktomisearch.com
+0 2 1 204 1 1126120760
+/
+lj2039.inktomisearch.com
+0 1 0 0 1 1126526565
+/schedule/january2005.html
+cache-dtc-aa05.proxy.aol.com
+0 3 3 16330 1 1126686464
+/aboutus.html
+fj5007.inktomisearch.com
+0 1 0 204 0 0
+-
+cache-dtc-ae05.proxy.aol.com
+0 4 4 57282 1 1126686320
+/schedule/january2005.html
+crawl28-public.alexa.com
+0 2 1 1506 1 1125708190
+/contact.html
+68.216.26.194
+0 42 30 765983 3 1126620041
+/galleryourrobots2001-2002.html
+lj2548.inktomisearch.com
+0 3 0 612 0 0
+-
+crlspr-69.65.73.7.myacc.net
+0 24 23 608945 2 1125993826
+/home.html
+66-194-6-80.gen.twtelecom.net
+0 3 1 3677 3 1126588175
+/
+lj2272.inktomisearch.com
+0 2 2 3016 2 1127041494
+/news_01-08-2005.html
+bri-pow-pr1.tpgi.com.au
+0 6 6 29052 1 1125887403
+/members/memberNicholasFerreira.html
+64.62.168.2
+0 1 1 1593 1 1126424379
+/home.html
+64.62.168.6
+0 1 1 1932 1 1126426957
+/info.html
+64.62.168.8
+0 3 0 612 0 0
+-
+lj2328.inktomisearch.com
+0 1 0 0 1 1126536796
+/members/memberMichaelBusbin.html
+cache-rtc-ab04.proxy.aol.com
+0 2 2 664 0 0
+-
+205-222-240-2.mcps.k12.md.us
+0 4 4 28697 1 1126782006
+/members/memberAndrewHerndon.html
+cache-dtc-ac07.proxy.aol.com
+0 1 1 1441 1 1126686266
+/gallerypictures2003-2004b.html
+64.62.168.18
+0 1 1 1609 1 1126431436
+/schedule.html
+cache-dtc-ab10.proxy.aol.com
+0 3 3 45693 1 1126686532
+/teammembers.html
+medres.cmdik.pan.pl
+0 6 6 10502 1 1126932160
+/info.html
+adsl-149-15-67.mia.bellsouth.net
+0 3 3 58201 1 1125850737
+/aboutus.html
+lj2119.inktomisearch.com
+0 1 0 0 1 1126840556
+/members/mentorBobAllison.html
+adsl-223-220-39.mia.bellsouth.net
+0 51 40 839098 4 1126947910
+/members/mentorUnderConstruction.html
+66-194-6-74.gen.twtelecom.net
+0 2 1 3449 2 1126898122
+/
+crawl30-public.alexa.com
+0 2 1 1957 1 1125568925
+/aboutfirst.html
+64.62.168.30
+0 1 1 800 1 1126424657
+/forums.html
+pontiac.k12.mi.us
+0 112 63 1919655 6 1126241140
+/schedule/january2005.html
+host86-129-52-104.range86-129.btcentralplus.com
+0 24 24 609537 1 1126265802
+/schedule.html
+64.62.168.46
+0 1 1 1203 1 1126427492
+/gallery.html
+crawl-66-249-71-40.googlebot.com
+0 6 2 4621 4 1127020165
+/donate.html
+lj2352.inktomisearch.com
+0 1 0 204 0 0
+-
+crawl-66-249-71-69.googlebot.com
+0 4 2 3337 3 1127044267
+/members/memberUmitAslan.html
+cache-dtc-aa09.proxy.aol.com
+0 4 4 83477 0 0
+-
+cache-dtc-ae09.proxy.aol.com
+0 2 2 7895 1 1126686366
+/schedule/february2005.html
+lj2182.inktomisearch.com
+0 1 1 1635 1 1125701198
+/sponsors.html
+dyn-83-157-223-239.ppp.tiscali.fr
+0 23 22 608145 1 1125836577
+/home.html
+fj5014.inktomisearch.com
+0 4 4 3221 4 1126334999
+/
+cache-rtc-aa07.proxy.aol.com
+0 2 2 4249 2 1127069631
+/schedule.html
+lj2555.inktomisearch.com
+0 11 0 2244 0 0
+-
+crawl-66-249-71-73.googlebot.com
+0 3 2 13738 3 1127021294
+/schedule/november2005.html
+64.114.199.201
+0 1 1 3221 1 1126564860
+/
+crawl-66-249-71-18.googlebot.com
+0 3 3 590844 1 1127008478
+/news.html
+fi.bb.66.54.revip2.asianet.co.th
+0 1 1 106496 0 0
+-
+cache-rtc-ab08.proxy.aol.com
+0 1 1 2028 1 1127069695
+/teammentors.html
+209.214.15.16
+0 11 11 241261 1 1126201097
+/home.html
+lj2396.inktomisearch.com
+0 1 0 0 1 1126441671
+/news_02-08-2005.html
+cache-dtc-ab03.proxy.aol.com
+0 1 1 906 1 1126686523
+/resources.html
+cache-dtc-af03.proxy.aol.com
+0 1 1 2044 1 1126686624
+/news.html
+crawl-66-249-71-29.googlebot.com
+0 5 2 296648 1 1126037870
+/news.html
+66-194-6-79.gen.twtelecom.net
+0 5 3 10119 5 1126859671
+-
+lj2482.inktomisearch.com
+0 1 0 204 0 0
+-
+lj2029.inktomisearch.com
+0 8 8 9663 8 1127028149
+/
+68-119-197-203.dhcp.buft.sc.charter.com
+0 83 73 22937167 6 1125690690
+/galleryourrobots2003-2004.html
+cache-dtc-ac04.proxy.aol.com
+0 2 2 98647 0 0
+-
+lj2538.inktomisearch.com
+0 1 0 204 0 0
+-
+220-137-108-96.dynamic.hinet.net
+0 2 2 4523 2 1125817219
+/
+66-194-6-70.gen.twtelecom.net
+0 1 1 3221 1 1126974962
+/
+65.93.97.164
+0 1 1 3221 1 1126498657
+/
+lj2549.inktomisearch.com
+0 8 1 3360 1 1126075202
+/info.html
+66-194-6-81.gen.twtelecom.net
+0 2 1 3449 2 1126016077
+-
+155.31.171.150
+0 38 28 643175 3 1126714434
+/
+hse-montreal-ppp3469629.sympatico.ca
+0 2 1 1407 1 1126481792
+/gallery.html
+lj2198.inktomisearch.com
+0 4 1 2044 4 1127083043
+/news.html
+cache-dtc-ad05.proxy.aol.com
+0 1 1 56335 0 0
+-
+64.251.50.109
+0 62 62 1480418 5 1126679481
+/galleryourrobots2003-2004.html
+host-148-244-150-52.block.alestra.net.mx
+0 2 0 428 0 0
+-
+crawl-66-249-71-55.googlebot.com
+0 2 1 204 1 1125704562
+/
+www.palmbeach.k12.fl.us
+0 102 102 3854823 6 1126676914
+/gallerypictures2003-2004c.html
+216.52.252.195
+0 65 64 297013 1 1126862185
+/members/mentorChetZientek.html
+mail.palmbeach.k12.fl.us
+0 4 4 28697 1 1125990933
+/members/memberAndrewHerndon.html
+c-67-173-244-120.hsd1.co.comcast.net
+0 44 36 864465 4 1126560682
+/galleryourrobots.html
+lj2245.inktomisearch.com
+0 1 0 0 1 1126907259
+/members/memberZacharyLevine.html
+pcp03201908pcs.palmrn01.fl.comcast.net
+0 2 0 451 0 0
+-
+lj2109.inktomisearch.com
+0 1 1 1653 1 1126190554
+/members/memberAndreaLehman.html
+69-166-78-23.atlsfl.adelphia.net
+0 3 3 58201 1 1125755712
+/aboutus.html
+webproxy.dana.com
+0 30 30 3591633 3 1126787958
+/
+host-66-42-141-5.belcan.fuse.net
+0 24 24 666129 3 1126870254
+/aboutus.html
+adsl-9-215-200.mia.bellsouth.net
+0 2 2 58201 1 1125855276
+/aboutus.html
+192.232.155.105
+0 4 4 28361 1 1125595823
+/members/memberShawnWalters.html
+p5491477b.dip.t-dialin.net
+0 1 1 98304 0 0
+-
+cache-rtc-aa04.proxy.aol.com
+0 4 4 5673 3 1127069610
+/gallery.html
+cache-rtc-ae04.proxy.aol.com
+0 4 4 7050 3 1127069586
+/home.html
+lj2331.inktomisearch.com
+0 1 0 0 1 1126124227
+/news_04-18-2005.html
+cache-dtc-ab07.proxy.aol.com
+0 5 5 81605 1 1126686710
+/aboutfirst.html
+ramag.net
+0 6 6 10502 1 1125783215
+/info.html
+crawl-66-249-71-9.googlebot.com
+0 2 1 204 1 1126296681
+/
+66-194-6-75.gen.twtelecom.net
+0 1 0 228 1 1126122505
+-
+crawl-66-249-71-70.googlebot.com
+0 6 5 888286 3 1127044561
+/members/memberJaySternfield.html
+cache-dtc-aa10.proxy.aol.com
+0 1 1 1635 1 1126686613
+/sponsors.html
+cache-dtc-ae10.proxy.aol.com
+0 1 1 463 0 0
+-
+crawl-66-249-66-102.googlebot.com
+0 4 2 5246 2 1127029142
+/home.html
+cache-rtc-ab05.proxy.aol.com
+0 14 14 198140 2 1127069568
+/
+crawl-66-249-64-13.googlebot.com
+0 2 1 204 1 1126131569
+/
+203.113.86.156
+0 1 1 472736 0 0
+-
+c-66-177-41-189.hsd1.fl.comcast.net
+0 30 25 660830 2 1126899622
+/gallery.html
+cache-dtc-ac01.proxy.aol.com
+0 4 4 52518 1 1126686591
+/teammentors.html
+adsl-065-007-166-232.sip.bct.bellsouth.net
+0 35 29 626153 3 1125861329
+/teammembers.html
+cache-dtc-ad09.proxy.aol.com
+0 1 1 16756 0 0
+-
+host114-172.pool80206.interbusiness.it
+0 6 6 10502 1 1126125427
+/info.html
+lj2019.inktomisearch.com
+0 1 1 1203 1 1126804146
+/gallery.html
+sprint-65-160-238-180.smf.ragingwire.net
+0 13 13 166589 1 1126676833
+/home.html
+200-180-163-207.paemt7002.dsl.brasiltelecom.net.br
+0 32 29 5425128 2 1125599492
+/home.html
+cache-rtc-ac10.proxy.aol.com
+0 1 1 56335 0 0
+-
+crawl-66-249-64-68.googlebot.com
+0 4 4 29055 3 1127056180
+/members/memberAndreaLehman.html
+adsl-11-237-44.mia.bellsouth.net
+0 116 42 912756 7 1125949029
+/gallery.html
+crawl-66-249-64-50.googlebot.com
+0 2 1 204 1 1126745934
+/
+lj2494.inktomisearch.com
+0 1 1 1645 1 1126075062
+/members/memberAmandaMackintosh.html
+crawl-66-249-64-79.googlebot.com
+0 4 0 439 3 1127022734
+-
+lj2433.inktomisearch.com
+0 2 1 1645 2 1127036038
+/members/memberJaySternfield.html
+fj5009.inktomisearch.com
+0 3 0 612 0 0
+-
+66-194-6-71.gen.twtelecom.net
+0 1 1 3221 1 1125874765
+/
+cf3.utc.com
+0 135 131 3213716 14 1126820043
+/news.html
+d220-236-7-190.dsl.nsw.optusnet.com.au
+0 4 4 24305 1 1126633238
+/members/memberMarcusHill.html
+crawl-66-249-64-6.googlebot.com
+0 2 1 204 1 1125620569
+/
+cache-rtc-aa01.proxy.aol.com
+0 1 1 1603 1 1127069707
+/members/mentorMarkWall.html
+cache-rtc-ae01.proxy.aol.com
+0 1 1 15466 0 0
+-
+c-67-169-189-142.hsd1.ca.comcast.net
+0 1 1 3587 1 1126046347
+/teammembers.html
+cosentino.inhs.uiuc.edu
+0 11 11 208780 1 1126017208
+/
+66-17-15-154.biz.bkfd.arrival.net
+0 1 1 3221 1 1126001416
+/
+crawl26-public.alexa.com
+0 2 1 2070 1 1126367600
+/aboutus.html
+caching3-pnc2.asianet.co.th
+0 1 1 655360 0 0
+-
+crawl-66-249-64-28.googlebot.com
+0 2 0 0 2 1126050285
+/galleryourrobots.html
+port133.public12.resnet.ucf.edu
+0 76 52 4851534 4 1126361544
+/
+adsl-10-152-97.mia.bellsouth.net
+0 36 35 820084 4 1126295677
+/galleryourrobots2001-2002.html
+cache-rtc-ab02.proxy.aol.com
+0 1 1 7685 0 0
+-
+crawl-66-249-64-39.googlebot.com
+0 3 1 1506 2 1127016901
+/contact.html
+cpe-65-30-19-213.kc.res.rr.com
+0 4 4 28697 1 1126878868
+/members/memberAndrewHerndon.html
+cache-dtc-ac05.proxy.aol.com
+0 3 3 19128 1 1126686190
+/
+adsl-211-49-128.asm.bellsouth.net
+0 45 45 3768754 5 1126728950
+/sponsors.html
+lj2004.inktomisearch.com
+0 1 1 1633 1 1126347224
+/members/memberGiordonStark.html
+adsl-9-160-111.mia.bellsouth.net
+0 39 33 720296 2 1125978703
+/comingsoon.html
+www.whois.sc
+0 6 3 9864 3 1127064833
+/
+203.172.138.154
+0 1 1 16384 0 0
+-
+nsc66.147.20-210.newsouth.net
+0 32 31 699242 2 1126704003
+/comingsoon.html
+67-22-0-128.atlsfl.adelphia.net
+0 122 78 1877231 5 1126035799
+/schedule.html
+cache-dtc-ad06.proxy.aol.com
+0 1 1 6467 1 1126686406
+/schedule/march2005.html
+66-194-6-76.gen.twtelecom.net
+0 2 2 6442 2 1126720218
+/
+69-163-148-31.atlsfl.adelphia.net
+0 95 77 5382839 4 1126972192
+/schedule/january2005.html
+crawl-66-249-71-56.googlebot.com
+0 1 1 0 1 1126471080
+/
+lj2449.inktomisearch.com
+0 1 0 0 1 1126795757
+/news_03-13-2005.html
+129.252.127.146
+0 49 45 8550949 6 1126589823
+/teammembers.html
+lj2596.inktomisearch.com
+0 2 1 1764 2 1126952092
+/donate.html
+crawl-66-249-71-67.googlebot.com
+0 3 1 24064 1 1126046969
+/galleryvideos.html
+82-76-35-215.rdsnet.ro
+0 1 0 218 1 1125650021
+-
+cache-dtc-ab08.proxy.aol.com
+0 8 8 650449 0 0
+-
+port243.public2.resnet.ucf.edu
+0 36 27 910666 2 1126809724
+/info.html
+cache-dtc-af08.proxy.aol.com
+0 5 5 7193 3 1126686303
+/gallerypictures2003-2004h.html
+193.252.148.209
+0 2 1 3437 1 1126419811
+/
+lj2568.inktomisearch.com
+0 1 1 1667 1 1126572748
+/members/memberJasonCadenhead.html
+host215-46.cve.fit.edu
+0 129 115 4132026 3 1127050558
+/teammembers.html
+cache-rtc-ab06.proxy.aol.com
+0 2 2 526624 0 0
+-
+cache-dtc-ab01.proxy.aol.com
+0 5 5 79086 0 0
+-
+bweb-r01.ygpweb.aol.com
+0 6 6 10502 1 1126584867
+/info.html
+cache-dtc-af01.proxy.aol.com
+0 1 1 774 0 0
+-
+crawl-66-249-71-3.googlebot.com
+0 3 2 204 2 1126987737
+/
+cache-dtc-ac09.proxy.aol.com
+0 2 2 18016 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+cache-rtc-ac07.proxy.aol.com
+0 1 1 24064 0 0
+-
+66-194-6-72.gen.twtelecom.net
+0 1 0 228 1 1127026553
+-
+crawl-66-249-64-58.googlebot.com
+0 2 1 0 1 1127011910
+/
+msnbot.msn.com
+0 25 22 1385620 8 1127076454
+/forums.html
+lj2406.inktomisearch.com
+0 1 0 0 1 1127055503
+/members/memberDavidWallace.html
+cache-rtc-aa09.proxy.aol.com
+0 1 1 12710 0 0
+-
+lst-amand-152-31-4-160.w82-127.abo.wanadoo.fr
+0 1 1 3221 1 1127022776
+/
+crawl-66-249-64-18.googlebot.com
+0 1 1 23552 0 0
+-
+crawl-66-249-64-33.googlebot.com
+0 2 1 1655 2 1127039566
+/members/mentorBobAllison.html
+crawl-66-249-64-55.googlebot.com
+0 1 1 7608 1 1127016597
+/schedule/december2005.html
+crawl-66-249-64-66.googlebot.com
+0 1 1 7674 1 1127021821
+/schedule/october2005.html
+64.210.196.197
+0 15 14 491154 1 1127034839
+/home.html
+66-194-6-73.gen.twtelecom.net
+0 1 1 3221 1 1127061271
+/
+crawl-66-249-71-72.googlebot.com
+0 1 0 0 0 0
+-
+crawl-66-249-64-15.googlebot.com
+0 2 1 204 1 1127075994
+/
+crawl-66-249-71-28.googlebot.com
+0 3 1 1645 2 1127055404
+/members/memberAmandaMackintosh.html
+cache-rtc-aa10.proxy.aol.com
+0 8 8 116689 0 0
+-
+crawl-66-249-64-37.googlebot.com
+0 2 2 293489 1 1127056461
+/members/memberMarcusHill.html
+crawl-66-249-71-32.googlebot.com
+0 3 0 217 2 1127018756
+-
+cache-rtc-ac01.proxy.aol.com
+0 4 4 114554 0 0
+-
+cache-rtc-ad09.proxy.aol.com
+0 1 1 332 0 0
+-
+cache-rtc-ad02.proxy.aol.com
+0 1 1 288 0 0
+-
+lj2272.inktomisearch.com
+0 1 1 1508 1 1127041494
+/news_01-08-2005.html
+cache-rtc-ab04.proxy.aol.com
+0 1 1 332 0 0
+-
+crawl-66-249-71-40.googlebot.com
+0 4 2 4621 3 1127020165
+/donate.html
+crawl-66-249-71-69.googlebot.com
+0 3 1 1656 2 1127044267
+/members/memberUmitAslan.html
+cache-rtc-aa07.proxy.aol.com
+0 1 1 2640 1 1127069631
+/schedule.html
+crawl-66-249-71-73.googlebot.com
+0 3 2 13738 3 1127021294
+/schedule/november2005.html
+crawl-66-249-71-18.googlebot.com
+0 2 2 296444 1 1127008478
+/news.html
+cache-rtc-ab08.proxy.aol.com
+0 1 1 2028 1 1127069695
+/teammentors.html
+crawl-66-249-71-29.googlebot.com
+0 2 1 294400 0 0
+-
+lj2029.inktomisearch.com
+0 1 1 0 1 1127028149
+/
+lj2549.inktomisearch.com
+0 5 0 1020 0 0
+-
+lj2198.inktomisearch.com
+0 1 0 0 1 1127083043
+/news.html
+p5491477b.dip.t-dialin.net
+0 1 1 98304 0 0
+-
+cache-rtc-aa04.proxy.aol.com
+0 2 2 2505 1 1127069610
+/gallery.html
+cache-rtc-ae04.proxy.aol.com
+0 2 2 3525 2 1127069586
+/home.html
+crawl-66-249-71-70.googlebot.com
+0 2 2 432749 1 1127044561
+/members/memberJaySternfield.html
+crawl-66-249-66-102.googlebot.com
+0 2 1 1809 1 1127029142
+/home.html
+cache-rtc-ab05.proxy.aol.com
+0 7 7 99070 1 1127069568
+/
+sprint-65-160-238-180.smf.ragingwire.net
+0 1 1 15790 0 0
+-
+crawl-66-249-64-68.googlebot.com
+0 2 2 25717 1 1127056180
+/members/memberAndreaLehman.html
+crawl-66-249-64-79.googlebot.com
+0 2 0 439 2 1127022734
+-
+lj2433.inktomisearch.com
+0 1 0 0 1 1127036038
+/members/memberJaySternfield.html
+cache-rtc-aa01.proxy.aol.com
+0 1 1 1603 1 1127069707
+/members/mentorMarkWall.html
+cache-rtc-ab02.proxy.aol.com
+0 1 1 7685 0 0
+-
+crawl-66-249-64-39.googlebot.com
+0 3 1 1506 2 1127016901
+/contact.html
+www.whois.sc
+0 2 1 3288 1 1127064833
+/
+crawl-66-249-71-67.googlebot.com
+0 2 1 24064 0 0
+-
+host215-46.cve.fit.edu
+0 129 115 4132026 3 1127050558
+/teammembers.html
+cache-rtc-ab06.proxy.aol.com
+0 1 1 263312 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.179swampthing.org/galleryourrobots.html
+1 44
+http://www.179swampthing.org/galleryourrobots2002-2003.html
+1 10
+http://www.firstwiki.org/179
+0 2
+http://www.179swampthing.org/gallerypictures2003-2004g.html
+1 39
+- (Direct Request)
+0 1264
+http://179swampthing.org/gallerypictures2003-2004k.html
+1 10
+http://www.usfirst.org/frc/map/index.lasso
+0 6
+http://www.179swampthing.org/members/memberMarcusHill.html
+1 3
+http://www.179swampthing.org/schedule/april2005.html
+1 1
+http://www.179swampthing.org/gallerypictures2003-2004h.html
+1 30
+http://kickbot1523.com/glossary/term/12
+0 1
+http://179swampthing.org/gallerypictures2003-2004l.html
+1 11
+http://www.179swampthing.org/gallerypictures.html
+1 38
+http://search.msn.fr/results.aspx
+0 1
+http://www.google.com/search
+0 25
+http://www.179swampthing.org/members/mentorMarkWall.html
+1 3
+http://179swampthing.org/sblogin/badlogin.shtml
+1 1
+http://www.chiefdelphi.com/forums/showthread.php
+0 11
+http://www.179swampthing.org/gallerypictures2003-2004i.html
+1 16
+http://images.google.com.au/imgres
+0 1
+http://179swampthing.org/gallerypictures2003-2004m.html
+1 8
+http://www.179swampthing.org/schedule/january2005.html
+1 9
+http://dsd-database.impulse3d.com/basic.php
+0 2
+http://www.179swampthing.org/home.html
+1 19
+http://www.179swampthing.org/members/memberWendyBrissault.html
+1 7
+http://www.broward.k12.fl.us/flabestrobotics/teams.htm
+0 1
+http://www.google.ru/search
+0 1
+http://www.179swampthing.org/gallery.html
+1 66
+http://179swampthing.org/gallerypictures2003-2004a.html
+1 24
+http://www.google.de/search
+0 3
+http://179swampthing.org/
+1 91
+http://www.179swampthing.org/gallerypictures2003-2004j.html
+1 15
+http://179swampthing.org/galleryourrobots2001-2002.html
+1 1
+http://www.whois.sc/179swampthing.org
+1 3
+http://179swampthing.org/gallerypictures2003-2004b.html
+1 12
+http://www.179swampthing.org/gallerypictures2003-2004k.html
+1 17
+http://www.179swampthing.org/resources.html
+1 25
+http://www.179swampthing.org/teammentors.html
+1 2
+http://aolsearch.aol.com/aol/imageDetails
+0 2
+http://www.179swampthing.org/teammembers.html
+1 10
+http://www.google.co.th/search
+0 1
+http://www.179swampthing.org/resources/autocad.html
+1 22
+http://179swampthing.org/gallerypictures2003-2004c.html
+1 10
+http://www.179swampthing.org/info.html
+1 54
+http://images.google.cl/imgres
+0 2
+http://www.179swampthing.org/gallerypictures2003-2004l.html
+1 16
+http://www.179swampthing.org/members/memberAmandaMackintosh.html
+1 3
+http://www.179swampthing.org/galleryourrobots2003-2004.html
+1 11
+http://www.179swampthing.org/members/memberDanielErenrich.html
+1 4
+http://179swampthing.org/cgi-bin/awstats.pl
+1 1
+http://179swampthing.org/gallerypictures2003-2004d.html
+1 11
+http://www.179swampthing.org/gallerypictures2003-2004m.html
+1 14
+http://images.google.com.mx/imgres
+0 1
+http://www.webbrobotics.org/
+0 1
+http://www.179swampthing.org/news.html
+1 18
+http://www.google.co.th
+0 1
+http://179swampthing.org/galleryourrobots.html
+1 2
+http://179swampthing.org/galleryourrobots2004-2005.html
+1 1
+http://www.179swampthing.org/gallerypictures2003-2004a.html
+1 120
+http://179swampthing.org/gallerypictures2003-2004e.html
+1 11
+http://images.google.gr/imgres
+0 1
+http://www.chiefdelphi.com/forums/member.php
+0 1
+http://www.179swampthing.org/galleryourrobots2001-2002.html
+1 13
+http://www.179swampthing.org/gallerypictures2003-2004b.html
+1 73
+http://179swampthing.org/gallerypictures2003-2004f.html
+1 11
+http://www.google.co.th/
+0 2
+http://www.179swampthing.org/members/memberTytusGerrish.html
+1 5
+http://www.179swampthing.org/members/memberAndreaLehman.html
+1 2
+http://179swampthing.org/gallerypictures.html
+1 6
+http://www.179swampthing.org/gallerypictures2003-2004c.html
+1 63
+http://179swampthing.org/gallerypictures2003-2004g.html
+1 11
+http://www.179swampthing.org/members/memberShawnWalters.html
+1 5
+http://www.whois.sc/
+0 3
+http://www.179swampthing.org/contact.html
+1 5
+http://www.179swampthing.org/aboutus.html
+1 9
+http://www.179swampthing.org/gallerypictures2003-2004d.html
+1 59
+http://179swampthing.org/gallerypictures2003-2004h.html
+1 10
+http://www.179swampthing.org/galleryvideos.html
+1 81
+http://www.179swampthing.org/members/memberZacharyLevine.html
+1 3
+http://www.179swampthing.org/
+1 1617
+http://www.179swampthing.org/galleryourrobots2004-2005.html
+1 18
+http://aolsearch.aol.com/aol/search
+0 2
+http://www.179swampthing.org/gallerypictures2003-2004e.html
+1 51
+http://179swampthing.org/gallerypictures2003-2004i.html
+1 11
+http://www.179swampthing.org
+1 61
+http://images.google.com/imgres
+0 12
+http://www.179swampthing.org/schedule/september2005.html
+1 1
+http://www.google.fr/search
+0 1
+http://www.179swampthing.org/schedule.html
+1 10
+http://www.179swampthing.org/gallerypictures2003-2004f.html
+1 46
+http://179swampthing.org/gallerypictures2003-2004j.html
+1 10
+http://www.179swampthing.org/members/memberAndrewHerndon.html
+1 9
+http://www.179swampthing.org/members/memberNicholasFerreira.html
+1 5
+http://179swampthing.org/gallery.html
+1 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible;)
+0 3
+NSPlayer/8.9 WMPMac/8.9.0.3307
+0 7
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gec
+0 30
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Compaq)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461; .
+0 21
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312460)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; SV1; .NET 
+0 22
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.6) Gec
+0 42
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020414)
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020523)
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.1-rc4; i686 Linux; 20020
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312462)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.7.10) Ge
+0 24
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312463)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312465)
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312467)
+0 2
+msnbot/1.0 (+http://search.msn.com/msnbot.htm)
+0 162
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; AT&T CSM6.
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312468)
+0 3
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; Girafabot; gir
+0 15
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312469)
+0 1
+CFNetwork/1.1
+0 3
+Microsoft Data Access Internet Publishing Provider Protocol D
+0 12
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020617)
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.0-rc4; i686 Linux; 20020
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.8) Gec
+0 202
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET 
+0 1342
+MSFrontPage/5.0
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; DigExt; Fu
+0 1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/125.
+0 4
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20021002)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1
+0 42
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1)
+0 2
+Mozilla/4.0 (compatible; Cerberian Drtrs Version-3.2-Build-0)
+0 33
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 108
+NSPlayer/9.0.0.3250 WMFSDK/9.0
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 189
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 26
+Gaisbot/3.0+(robot05@gais.cs.ccu.edu.tw;+http://gais.cs.ccu.e
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.10) Ge
+0 921
+GetRight/5.1
+0 1
+Java/1.4.1_04
+0 43
+LocalcomBot/1.2 (+http://www.local.com/bot.htm)
+0 65
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en) AppleWebKit/412.
+0 157
+Mozilla/5.0 (compatible; Konqueror/3.1-rc2; i686 Linux; 20020
+0 1
+Gigabot/2.0
+0 8
+SurveyBot/2.3 (Whois Source)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1
+0 158
+NSPlayer/10.0.0.3646 WMFSDK/10.0
+0 2
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.co
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; S
+0 113
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020512)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; Y
+0 33
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95) VoilaBot BETA 
+0 2
+NutchCVS/0.06-dev (http://www.nutch.org/docs/en/bot.html; rhw
+0 3
+Mozilla/3.01 (compatible;)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; (R1 1
+0 3
+Mozilla/2.0 (compatible; MS FrontPage 5.0)
+0 10
+Mozilla/5.0 (Windows; U; Windows NT 5.1; pl-PL; rv:1.7.8) Gec
+0 2
+Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20020
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.1-rc6; i686 Linux; 20021
+0 1
+Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/
+0 99
+Avant Browser (http://www.avantbrowser.com)
+0 1
+Mozilla/5.0 (compatible; Konqueror/3.1-rc1; i686 Linux; 20020
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 249
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; OptusNetDS
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Q312461)
+0 2
+Microsoft-WebDAV-MiniRedir/5.1.2600
+0 20
+Mozilla/5.0 (compatible; Konqueror/3.0-rc6; i686 Linux; 20020
+0 1
+Mozilla/3.0 (compatible; Indy Library)
+0 2
+Mozilla/5.0 (compatible; Konqueror/3.0-rc1; i686 Linux; 20020
+0 3
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gec
+0 1
+ia_archiver
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Roadrunner
+0 4
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; F
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
+0 2
+contype
+0 43
+NSPlayer/9.0.0.2980 WMFSDK/9.0
+0 2
+Mozilla/5.0 (compatible; Konqueror/3.0; i686 Linux; 20020103)
+0 1
+# End Of Table - agents
+# -search strings- 
+animation electrical
+1
+suncoast high school
+1
+%22suncoast high school%22
+1
+andrew herndon
+1
+hand symbol
+4
+mcdonalds team member
+1
+inlet grove high school
+1
+team 179 the swamp
+1
+inlet swamp
+1
+children of the swamp 179
+2
+marcus hill
+1
+team 179 first robotics swamp
+2
+leonas liudzius
+1
+daniel erenrich
+1
+mecanum .dwg
+5
+children of the swamp
+2
+team 179
+7
+swamp 179 first
+1
+inlet grove high school swamp thing
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

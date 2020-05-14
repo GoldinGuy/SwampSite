@@ -1,0 +1,644 @@
+<span class="irc-date">[0:05]</span> <span class="irc-green">* dav2_ (~chatzilla@adsl-99-41-48-72.dsl.pltn13.sbcglobal.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[0:07]</span> <span class="irc-navy">* dav2 (~chatzilla@adsl-99-101-142-130.dsl.pltn13.sbcglobal.net) Quit (Ping timeout: 252 seconds)</span><br />
+<span class="irc-date">[0:07]</span> <span class="irc-green">* dav2_ is now known as dav2</span><br />
+<span class="irc-date">[1:45]</span> <span class="irc-green">* dav2_ (~chatzilla@adsl-99-41-48-72.dsl.pltn13.sbcglobal.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[1:47]</span> <span class="irc-navy">* dav2 (~chatzilla@adsl-99-41-48-72.dsl.pltn13.sbcglobal.net) Quit (Ping timeout: 250 seconds)</span><br />
+<span class="irc-date">[1:47]</span> <span class="irc-green">* dav2_ is now known as dav2</span><br />
+<span class="irc-date">[2:19]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[2:20]</span> <span class="irc-navy">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) Quit (Client Quit)</span><br />
+<span class="irc-date">[4:43]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[4:51]</span> <span class="irc-navy">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[8:35]</span> <span class="irc-brown">-pratchett.freenode.net- *** Looking up your hostname...</span><br />
+<span class="irc-date">[8:35]</span> <span class="irc-brown">-pratchett.freenode.net- *** Checking Ident</span><br />
+<span class="irc-date">[8:35]</span> <span class="irc-brown">-pratchett.freenode.net- *** Found your hostname</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-brown">-pratchett.freenode.net- *** No Ident response</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-green">* A236Log (~PircBot@adsl-184-32-208-177.mia.bellsouth.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-green">* Topic is 'Public Werewolf Channel for Evolution :: Current Game - WW V: Half Life by Rainboy - Game in Progress'</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-green">* Set by Rainboy!~rainboy@68.205.211.136 on Fri Jul 06 08:45:58 EDT 2012</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-brown">-ChanServ- [#TNNWerewolf] Welcome to the Public Werewolf channel for TheNethernet. If you are a ghost in the game, please be aware of the rules for your game and don't speak unless your allowed to. If you are a Wolf and are trying to enter #TNNWolfChat unsuccessfully, contact the current Host to have them fix your access.</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-green">* A236tdboy|away (~A236tdboy@adsl-184-32-208-177.mia.bellsouth.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[8:36]</span> <span class="irc-green">* A236tdboy|away is now known as A236tdboy</span><br />
+<span class="irc-date">[8:41]</span> <span class="irc-brown">-A236tdboy- I missed some time this morning due to some1 unpluging my laptop last night</span><br />
+<span class="irc-date">[8:41]</span> <span class="irc-navy">* nginferno (~chatzilla@60.53.183.196) Quit (Ping timeout: 244 seconds)</span><br />
+<span class="irc-date">[8:52]</span> <span class="irc-green">* A236tdboy is now known as A236tdboy|away</span><br />
+<span class="irc-date">[9:24]</span> <span class="irc-navy">* Rainboy (~rainboy@68.205.211.136) Quit (Disconnected by services)</span><br />
+<span class="irc-date">[9:24]</span> <span class="irc-green">* Rainboy` (~rainboy@68.205.211.136) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[9:24]</span> <span class="irc-green">* Rainboy` is now known as Rainboy</span><br />
+<span class="irc-date">[9:33]</span> <span class="irc-navy">* RedMage (~Derp@c-24-143-98-55.customer.broadstripe.net) Quit (Remote host closed the connection)</span><br />
+<span class="irc-date">[9:55]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[10:02]</span> <span class="irc-green">* nginferno (~chatzilla@60.53.183.196) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[10:10]</span> <span class="irc-green">* Heavylob1ter (~lauri@dsl-hkibrasgw2-fe27de00-108.dhcp.inet.fi) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[10:12]</span> <span class="irc-navy">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) Quit (Ping timeout: 245 seconds)</span><br />
+<span class="irc-date">[10:13]</span> <span class="irc-navy">* Heavylobster (~lauri@dsl-hkibrasgw2-fe27de00-108.dhcp.inet.fi) Quit (Ping timeout: 240 seconds)</span><br />
+<span class="irc-date">[10:28]</span> <span class="irc-navy">* nginferno (~chatzilla@60.53.183.196) Quit (Quit: ChatZilla 0.9.88.2 [Firefox 13.0.1/20120614114901])</span><br />
+<!--
+<span class="irc-date">[10:47]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+-->
+<span class="irc-date">[10:51]</span> <span class="irc-green">* nginferno (~chatzilla@60.53.183.196) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[11:10]</span> <span class="irc-brown">-A236tdboy|away- Hiya</span><br />
+<span class="irc-date">[11:10]</span> <span class="irc-black">&lt;nginferno&gt; LOL</span><br />
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;A236tdboy|away&gt; hey ng</span><br />
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;nginferno&gt; hai</span><br />
+<!--
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;A236tdboy|away&gt; which team you rooting for to win</span><br />
+<span class="irc-date">[11:11]</span> <span class="irc-black">&lt;A236tdboy|away&gt; all three can still be in this</span><br />
+-->
+<span class="irc-date">[11:12]</span> <span class="irc-black">&lt;nginferno&gt; im totally not checking the thread at all lol</span><br />
+<span class="irc-date">[11:29]</span> <span class="irc-navy">* nginferno (~chatzilla@60.53.183.196) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[11:57]</span> <span class="irc-navy">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[12:13]</span> <span class="irc-green">* RedMage (~Derp@c-24-143-98-55.customer.broadstripe.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[12:18]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[12:18]</span> <span class="irc-black">&lt;cml&gt; hello</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-black">&lt;cml&gt; RedMage</span><br />
+<span class="irc-date">[12:19]</span> <span class="irc-black">&lt;cml&gt; beep</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;RedMage&gt; ohai cml</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;RedMage&gt; i was getting some tea.</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;cml&gt; k</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;RedMage&gt; so hows it goin</span><br />
+<span class="irc-date">[12:20]</span> <span class="irc-black">&lt;RedMage&gt; and we can't talk in private this time, makes me sad.</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;cml&gt; I know...</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;cml&gt; so...hc plays the "not evil" card</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;RedMage&gt; I kinda wish I could have talked to HCMac, but he pulled a you yesterday and came on for two seconds while I was doing stuff</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;cml&gt; wish I could have as well</span><br />
+<span class="irc-date">[12:21]</span> <span class="irc-black">&lt;cml&gt; perhaps he will be on later</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;RedMage&gt; I also won't be on unill after the end of the round...so don't lynch me XD</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;cml&gt; I don't plan to from what I am seeing so far</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;RedMage&gt; I dunno. I could bug Blade to go get him since he knows him outside of WW</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;cml&gt; ok</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;cml&gt; do so later</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;RedMage&gt; right, because you don't need to.</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;RedMage&gt; you've already won, pretty much.</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;cml&gt; we should at least hear his lies</span><br />
+<span class="irc-date">[12:22]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;RedMage&gt; so cml</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;RedMage&gt; last round</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;RedMage&gt; before salv died</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;RedMage&gt; he PM'd me some interesting info</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;cml&gt; he also got himself deleted</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;cml&gt; what did he tell you?</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;RedMage&gt; telling me that your role was the Traitor, that it was Starken, and that you attack with blowdarts/poison</span><br />
+<span class="irc-date">[12:23]</span> <span class="irc-black">&lt;RedMage&gt; obviously I called BS.</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;cml&gt; so do I</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;RedMage&gt; But last round I ran a name check on your role with my only control panel</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;RedMage&gt; and it said you were Traitor</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;cml&gt; I am not the traitor</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;RedMage&gt; so now I'm actually a little confused.</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;cml&gt; wait...</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;RedMage&gt; dude, the panels don't lie. Its like cheating, but in the good way.</span><br />
+<span class="irc-date">[12:24]</span> <span class="irc-black">&lt;cml&gt; someone pretended to be me earlier as well</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;RedMage&gt; Oh, in other news, I apparantly cheated when I posted that event thingy when I was having a heated debate with elric.</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;RedMage&gt; *shrug*</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;cml&gt; wait</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;RedMage&gt; and we both know nobody was actually being you</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;cml&gt; last round as in start of?</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;RedMage&gt; you were just in admin isle</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;RedMage&gt; yeh</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;cml&gt; ah</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;RedMage&gt; like he peeked you before he died</span><br />
+<span class="irc-date">[12:25]</span> <span class="irc-black">&lt;cml&gt; that explains</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;cml&gt; I role switched, hoping for a seer</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;RedMage&gt; just now?</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-brick">* RedMage should have done that...</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;RedMage&gt; w/e</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;RedMage&gt; well, not just now. like during the clusterf- of events last round.</span><br />
+<span class="irc-date">[12:26]</span> <span class="irc-black">&lt;cml&gt; I am not starken though, no matter what I might show up</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;RedMage&gt; well</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;RedMage&gt; even with the name check</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;RedMage&gt; I'm still inclined to believe you</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;RedMage&gt; since you're a pretty cool guy</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;RedMage&gt; but if you actually were, you've pretty much won the game.</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;RedMage&gt; im betting that someone revived hcmac and its prolonging the game again</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;cml&gt; so, I have won or I have won, from your pov</span><br />
+<span class="irc-date">[12:27]</span> <span class="irc-black">&lt;cml&gt; yes</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; you have won or you have won?</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; those are the same choices, lol</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;cml&gt; if I am lying and am starken, you say I have won</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; indeed</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;cml&gt; if I am venator and we lynch him, we both win</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; also indeed</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;cml&gt; talking of lynching him...</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; im 50/50 on it with these new info.</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; this*</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;cml&gt; brb</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;cml&gt; lynching</span><br />
+<span class="irc-date">[12:28]</span> <span class="irc-black">&lt;RedMage&gt; but i'm going with that i would normally do</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;RedMage&gt; and you didn't backstab me LAST round.</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;cml&gt; know the best thing though</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;RedMage&gt; when you prob would have had a really good chance to.</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;cml&gt; HC gave himself away with that post</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;RedMage&gt; orly</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;RedMage&gt; how so?</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;cml&gt; he says we would be fighting eachother</span><br />
+<span class="irc-date">[12:29]</span> <span class="irc-black">&lt;cml&gt; this means he thinks we are dimitti and starken</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;cml&gt; he wants us to lynch eachother</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;cml&gt; if one of us does die, and it is like that</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;cml&gt; he loses if he is venator</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;cml&gt; as soon as one of us dies</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;RedMage&gt; well, he could be referencing how every wincon is to murder the other two teams, but i'll go with that.</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;RedMage&gt; ooo, i see what you're saying.</span><br />
+<span class="irc-date">[12:30]</span> <span class="irc-black">&lt;RedMage&gt; wait, or do i</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;RedMage&gt; if he was venator, he'd more rather want to lynch the evil one rather than just say 'one of you is evil, go kill yourselves'</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;cml&gt; yes, but he thinks we are both evil</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;RedMage&gt; and then i got confused a bit.</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;RedMage&gt; elaborate?</span><br />
+<span class="irc-date">[12:31]</span> <span class="irc-black">&lt;cml&gt; In the end you and cml will be fighting each other </span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;cml&gt; means two left, just us</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;RedMage&gt; k.</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;cml&gt; which leaves us both as evil and opposed</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;RedMage&gt; and then the game wouldn't end, since both evil teams are still standing.</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;cml&gt; with it so far?</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;RedMage&gt; i somehow doubt that highly</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;cml&gt; I know.</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;cml&gt; but it is what that post says</span><br />
+<span class="irc-date">[12:32]</span> <span class="irc-black">&lt;cml&gt; next...</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;cml&gt; he offers to work on either side in an attempt to get one of us killed</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;RedMage&gt; which means that he doesn</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;RedMage&gt; aiofnh</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;RedMage&gt; doesn't care who gets lynched</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;cml&gt; if one of us dies, under the first assumption...</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;RedMage&gt; which means either</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;cml&gt; then we are left with evil/venator</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;cml&gt; and he loses</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;RedMage&gt; a: we're both town and he's evil, and if either of us die he wins</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;cml&gt; yes</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;cml&gt; or b: we are both evil and he is town</span><br />
+<span class="irc-date">[12:33]</span> <span class="irc-black">&lt;RedMage&gt; or b: we're both evil and hes town, and whoever of us lives wins, but he loses</span><br />
+<span class="irc-date">[12:34]</span> <span class="irc-black">&lt;cml&gt; yes</span><br />
+<span class="irc-date">[12:34]</span> <span class="irc-black">&lt;cml&gt; would he be acting towards his own loss when there is possibly a res in the game?</span><br />
+<span class="irc-date">[12:34]</span> <span class="irc-black">&lt;RedMage&gt; hmm.</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;RedMage&gt; i wouldn't say so.</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;RedMage&gt; he'd be looking nonstop for a revive option.</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;cml&gt; exactly</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;cml&gt; unless he is the res</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;cml&gt; but he says he is not</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;RedMage&gt; oooo</span><br />
+<span class="irc-date">[12:35]</span> <span class="irc-black">&lt;RedMage&gt; so then he'd lynch one of us and revive one of his allies and then he'd win the game via majority</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;RedMage&gt; either in insta-win parity</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;RedMage&gt; or by lynching whoever of us is left</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;cml&gt; hrm</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;cml&gt; can you see him this round?</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;cml&gt; and where are you?</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;RedMage&gt; no. unfortunately.</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;RedMage&gt; im somewhere</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;RedMage&gt; :3</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;RedMage&gt; &gt;public logs</span><br />
+<span class="irc-date">[12:36]</span> <span class="irc-black">&lt;cml&gt; are you in a town location?</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;RedMage&gt; i might be.</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;RedMage&gt; :3</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;cml&gt; as in town/town square</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;cml&gt; then he is in the graveyard or admin isle</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;cml&gt; most likely</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;RedMage&gt; if hes in admin isle, then you voting him will enable him to be lynched</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;RedMage&gt; as im pretty sure you're there too</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;cml&gt; might be ;)</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;RedMage&gt; but if hes in the graveyard...</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;RedMage&gt; we're in trouble</span><br />
+<span class="irc-date">[12:37]</span> <span class="irc-black">&lt;cml&gt; public logs</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;RedMage&gt; cause then he can revive people</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;cml&gt; not if we lynch him</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;cml&gt; lynch is first action</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;RedMage&gt; well, graveyard has a....</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;RedMage&gt; 50% chance</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;cml&gt; I know...</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;RedMage&gt; its a coin flip.</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;cml&gt; Heavylob1ter</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;cml&gt; beep</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;RedMage&gt; but its what we can do atm.</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;cml&gt; you are needed</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-black">&lt;RedMage&gt; and ?</span><br />
+<span class="irc-date">[12:38]</span> <span class="irc-brick">* RedMage hopes cml isn't about to ask ghosts for info.</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;cml&gt; I met the ghost, it is fine</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;RedMage&gt; oh</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;RedMage&gt; well then.</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;RedMage&gt; you ARE in admin isle.</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;RedMage&gt; sneaky, sneaky.</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;cml&gt; yes</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;cml&gt; oh, come on</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;cml&gt; where else would I be?</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;RedMage&gt; how the mudkip do you have so much resources to go there like 4 times &gt;.&lt;</span><br />
+<span class="irc-date">[12:39]</span> <span class="irc-black">&lt;RedMage&gt; I jelly</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;cml&gt; town with active optional</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;cml&gt; lots of town</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;RedMage&gt; no cornfield or stream?</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-green">* blackbladenine (~blackblad@67.8.160.166) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;cml&gt; didn't trust stream</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;RedMage&gt; ohai blade</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;cml&gt; cornfield not open much</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;RedMage&gt; lol, just like me</span><br />
+<span class="irc-date">[12:40]</span> <span class="irc-black">&lt;blackbladenine&gt; Ohiya</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; oh, met that one as well...</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;RedMage&gt; 80% accuracy</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; hi blade</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;RedMage&gt; no thx</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;RedMage&gt; i dont like being murdered while trying to eat</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; blade...a question about the game...</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; can you see HC from the graveyard?</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;blackbladenine&gt; Couldn't tell ya either way</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; (I did meet you)</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; oh</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;blackbladenine&gt; Oh ok lol</span><br />
+<span class="irc-date">[12:41]</span> <span class="irc-black">&lt;cml&gt; I thought you could if I met you</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;RedMage&gt; ^</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;cml&gt; hope it works that way, not sure</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;cml&gt; wait</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;cml&gt; I should probably check with rain first</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;blackbladenine&gt; Don;'t think so</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;RedMage&gt; it worked like that last round, why would it change now.</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;blackbladenine&gt; I can tell you in private</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;RedMage&gt; if you meet, you get PM rights</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;cml&gt; ah</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;blackbladenine&gt; But I don't think I can in public</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;RedMage&gt; oh, private.</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;cml&gt; but not open</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;cml&gt; ok</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;RedMage&gt; hokay</span><br />
+<span class="irc-date">[12:42]</span> <span class="irc-black">&lt;RedMage&gt; i see how it is. *sob*</span><br />
+<span class="irc-date">[12:43]</span> <span class="irc-black">&lt;cml&gt; what is visibility in graveyard?</span><br />
+<span class="irc-date">[12:43]</span> <span class="irc-black">&lt;RedMage&gt; 60%</span><br />
+<span class="irc-date">[12:43]</span> <span class="irc-black">&lt;cml&gt; because blade did not see him</span><br />
+<span class="irc-date">[12:43]</span> <span class="irc-black">&lt;cml&gt; will check with heavy when I can as well</span><br />
+<span class="irc-date">[12:43]</span> <span class="irc-black">&lt;cml&gt; brb</span><br />
+<span class="irc-date">[12:58]</span> <span class="irc-green">* HATER (a98b7343@gateway/web/freenode/ip.169.139.115.67) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[13:00]</span> <span class="irc-black">&lt;RedMage&gt; ohai Hater</span><br />
+<span class="irc-date">[13:00]</span> <span class="irc-black">&lt;HATER&gt; hai\</span><br />
+<span class="irc-date">[13:17]</span> <span class="irc-black">&lt;cml&gt; back</span><br />
+<span class="irc-date">[13:18]</span> <span class="irc-black">&lt;RedMage&gt; ohai</span><br />
+<span class="irc-date">[13:19]</span> <span class="irc-black">&lt;cml&gt; oh...he can not be venator even if he is going for a res unless he is sure he will not die</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-black">&lt;cml&gt; becase...</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-black">&lt;cml&gt; one of us dies, he rezzes, he dies...</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-black">&lt;cml&gt; leaves 1/1</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-black">&lt;RedMage&gt; and then the game is over with parity</span><br />
+<span class="irc-date">[13:20]</span> <span class="irc-black">&lt;cml&gt; exactly</span><br />
+<span class="irc-date">[14:38]</span> <span class="irc-black">&lt;Heavylob1ter&gt; cml: what's up?</span><br />
+<span class="irc-date">[14:38]</span> <span class="irc-green">* Heavylob1ter is now known as Heavylobster</span><br />
+<span class="irc-date">[14:39]</span> <span class="irc-black">&lt;A236tdboy|away&gt; The sky</span><br />
+<span class="irc-date">[14:39]</span> <span class="irc-green">* cml_ (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[14:39]</span> <span class="irc-black">&lt;cml_&gt; lost connection</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;RedMage&gt; [11:38am]	Heavylob1ter	cml: what's up?</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;RedMage&gt; [11:38am]	=-=	Heavylob1ter is now known as Heavylobster</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;RedMage&gt; [11:39am]	A236tdboy|away	The sky</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;RedMage&gt; didn't miss much</span><br />
+<span class="irc-date">[14:40]</span> <span class="irc-black">&lt;cml_&gt; ok</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-green">* A236tdboy|away is now known as A236tdboy</span><br />
+<span class="irc-date">[14:41]</span> <span class="irc-black">&lt;cml_&gt; RedMage</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-black">&lt;cml_&gt; heavy does not see HC either</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-navy">* HATER (a98b7343@gateway/web/freenode/ip.169.139.115.67) Quit (Ping timeout: 245 seconds)</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-navy">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) Quit (Ping timeout: 245 seconds)</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-green">* cml_ is now known as cml</span><br />
+<span class="irc-date">[14:42]</span> <span class="irc-black">&lt;A236tdboy&gt; could be hiding?</span><br />
+<span class="irc-date">[14:44]</span> <span class="irc-black">&lt;RedMage&gt; idk.</span><br />
+<span class="irc-date">[14:44]</span> <span class="irc-black">&lt;RedMage&gt; he could have just avoided detection from everyone. its unlikely, but possible.</span><br />
+<span class="irc-date">[14:44]</span> <span class="irc-black">&lt;RedMage&gt; no rules say theres a 100% meet rate chance.</span><br />
+<span class="irc-date">[14:45]</span> <span class="irc-black">&lt;RedMage&gt; hell, even if hes not in the graveyard, im pretty sure rain would have had panels dedicated to everything.</span><br />
+<span class="irc-date">[14:45]</span> <span class="irc-black">&lt;cml&gt; 75% meet chance if both see</span><br />
+<span class="irc-date">[14:45]</span> <span class="irc-black">&lt;RedMage&gt; 70%*</span><br />
+<span class="irc-date">[14:45]</span> <span class="irc-brick">* A236tdboy sees him...on top of that hill with a big boulder</span><br />
+<span class="irc-date">[14:45]</span> <span class="irc-black">&lt;RedMage&gt; nobody can find them now, but if he was evil, and an evil team revived salv</span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;RedMage&gt; then they could just tell him 'hey this panel does this, go use'</span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;RedMage&gt; but then theres a good chance for deletion in response.</span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;RedMage&gt; &gt;big boulder</span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;RedMage&gt; are you saying </span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;RedMage&gt; 'boulder falls, everyone dies'</span><br />
+<span class="irc-date">[14:46]</span> <span class="irc-black">&lt;A236tdboy&gt; I might be :P</span><br />
+<span class="irc-date">[14:47]</span> <span class="irc-brick">* RedMage giant boulder falls on the whole map</span><br />
+<span class="irc-date">[14:47]</span> <span class="irc-black">&lt;RedMage&gt; rainboy then ejects me out of my simulation seat to yell at me about glitches and failsafes</span><br />
+<span class="irc-date">[14:47]</span> <span class="irc-black">&lt;RedMage&gt; to which i roflcopter</span><br />
+<span class="irc-date">[14:48]</span> <span class="irc-black">&lt;RedMage&gt; 'rock falls, everyone dies. its a tie, nobody wins! Great ending to your most ambitious WW game yet, huh Rain?'</span><br />
+<span class="irc-date">[14:48]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;A236tdboy&gt; or the sun could explode, it'd explain the beams of light</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;RedMage&gt; o.o</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;RedMage&gt; kinda fatalistic, don't ya think.</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;RedMage&gt; how the crap would someone asplode the sun</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;cml&gt; the beams of light are the delete attack I think</span><br />
+<span class="irc-date">[14:49]</span> <span class="irc-black">&lt;cml&gt; they trigger when someone is caught using a console</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;RedMage&gt; ^</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;RedMage&gt; everyone who got 'beam of light'd' was deleted in the events</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;A236tdboy&gt; final fail-safe = blow up sun</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;A236tdboy&gt; hah</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;RedMage&gt; how about lets not blow up the sun</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;RedMage&gt; i like light</span><br />
+<span class="irc-date">[14:50]</span> <span class="irc-black">&lt;RedMage&gt; and not freezing to death.</span><br />
+<span class="irc-date">[14:51]</span> <span class="irc-black">&lt;RedMage&gt; even in just a simulation.</span><br />
+<span class="irc-date">[14:51]</span> <span class="irc-black">&lt;A236tdboy&gt; well its not like it hurts....much</span><br />
+<span class="irc-date">[15:06]</span> <span class="irc-black">&lt;RedMage&gt; afk.</span><br />
+<span class="irc-date">[15:10]</span> <span class="irc-green">* Drizzleman (~chatzilla@130.41.3.49) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-green">* ChanServ sets mode +o Drizzleman</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-green">* RedMage was kicked from #TNNWerewolf by Drizzleman</span><br />
+<span class="irc-date">[15:15]</span> <span class="irc-green">* RedMage (~Derp@c-24-143-98-55.customer.broadstripe.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[15:18]</span> <span class="irc-black">&lt;A236tdboy&gt; who's the new guy, Rains older clone?</span><br />
+<span class="irc-date">[15:18]</span> <span class="irc-black">&lt;- *A236tdboy* help</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;Drizzleman&gt; Just Rain with his away-from-main-desktop nick.</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;Drizzleman&gt; Proving to MMage here that I really am Rain.</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;Drizzleman&gt; =P</span><br />
+<span class="irc-date">[15:21]</span> <span class="irc-black">&lt;A236tdboy&gt; lol</span><br />
+<span class="irc-date">[15:22]</span> <span class="irc-black">&lt;cml&gt; I lost connection earlier, guess I should prove I am me as well</span><br />
+<span class="irc-date">[15:22]</span> <span class="irc-black">&lt;cml&gt; ...</span><br />
+<span class="irc-date">[15:22]</span> <span class="irc-black">&lt;A236tdboy&gt; and thats y i have my nick registered</span><br />
+<span class="irc-date">[15:22]</span> <span class="irc-black">&lt;cml&gt; brb</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has left #TNNWerewolf</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-brown">-cml- the game</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; well, you lost connection with your name. rain comes on with a totally different IP and different name</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; and YOU SON OF A GUN</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-green">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; ;access</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;cml&gt; hello again</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; dammit no gerty</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; raaaaaain</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; rain</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;cml&gt; did you all get my message?</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; he made me lose the game</span><br />
+<span class="irc-date">[15:23]</span> <span class="irc-black">&lt;RedMage&gt; :(</span><br />
+<span class="irc-date">[15:24]</span> <span class="irc-black">&lt;A236tdboy&gt; lol</span><br />
+<span class="irc-date">[15:24]</span> <span class="irc-black">&lt;A236tdboy&gt; every1 got the message cml</span><br />
+<span class="irc-date">[15:25]</span> <span class="irc-black">&lt;cml&gt; well, I had to prove it is me</span><br />
+<span class="irc-date">[15:25]</span> <span class="irc-black">&lt;cml&gt; ;)</span><br />
+<span class="irc-date">[15:25]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[15:25]</span> <span class="irc-black">&lt;RedMage&gt; you evil, evil person</span><br />
+<span class="irc-date">[15:25]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[15:26]</span> <span class="irc-black">&lt;cml&gt; I did DC earlier</span><br />
+<span class="irc-date">[15:26]</span> <span class="irc-black">&lt;cml&gt; evil, just not an evil role this time</span><br />
+<span class="irc-date">[15:40]</span> <span class="irc-black">&lt;RedMage&gt; &gt;this time</span><br />
+<span class="irc-date">[15:40]</span> <span class="irc-black">&lt;RedMage&gt; &gt;implying that you can trust cml ever, even if hes confirmed to be on your team</span><br />
+<span class="irc-date">[15:40]</span> <span class="irc-black">&lt;RedMage&gt; Or do I have to remind you of Soul's game</span><br />
+<span class="irc-date">[15:40]</span> <span class="irc-black">&lt;RedMage&gt; evil, evil person.</span><br />
+<span class="irc-date">[15:40]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;cml&gt; thenethernet.com/forums/forum-games/topics/werewolf-xii-moonlight-sonata-sign-ups?page=1</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;cml&gt; for those who are new</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;RedMage&gt; oh my god</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;RedMage&gt; Round 17</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;RedMage&gt; holy crap</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;cml&gt; yes, that is when it ended</span><br />
+<span class="irc-date">[15:41]</span> <span class="irc-black">&lt;RedMage&gt; I remember it going on for awhile</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-black">&lt;RedMage&gt; but...</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-black">&lt;RedMage&gt; 17 Round</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-black">&lt;RedMage&gt; s*</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-black">&lt;cml&gt;   i've wanted cml dead for a while now Cml-2- Loopygrrl, Foxycleopatra  but lynching? realy? lynching is boring. i want to kill him, i even had a witty line prepared</span><br />
+<span class="irc-date">[15:42]</span> <span class="irc-black">&lt;cml&gt; one post from it</span><br />
+<span class="irc-date">[15:43]</span> <span class="irc-black">&lt;cml&gt; I vote for Foxy to kill cml WITH a witty one liner ala every super hero in history.  Also...ya know Lynch him. </span><br />
+<span class="irc-date">[15:43]</span> <span class="irc-black">&lt;RedMage&gt; ooo a story with me in it</span><br />
+<span class="irc-date">[15:43]</span> <span class="irc-black">&lt;RedMage&gt; take it malq</span><br />
+<span class="irc-date">[15:43]</span> <span class="irc-black">&lt;RedMage&gt; you stupid vampire</span><br />
+<span class="irc-date">[15:44]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[15:44]</span> <span class="irc-black">&lt;cml&gt; and, of course...</span><br />
+<span class="irc-date">[15:44]</span> <span class="irc-black">&lt;cml&gt; Down with Cml and his cohorts! That should be a bumper sticker...I'm thinking red with gold trim. </span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-black">&lt;RedMage&gt; stupid cml. turning against me because of a storm</span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-black">&lt;RedMage&gt; and i worked so hard to make you an anti-angel killing machine</span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-black">&lt;cml&gt; yes...after -you- gave me the power to kill you</span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-black">&lt;RedMage&gt; then you go and join her &gt;.&lt;</span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-black">&lt;cml&gt; again</span><br />
+<span class="irc-date">[15:46]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[15:47]</span> <span class="irc-black">&lt;RedMage&gt; i never should have brought you back, too evil</span><br />
+<span class="irc-date">[15:47]</span> <span class="irc-black">&lt;RedMage&gt; just</span><br />
+<span class="irc-date">[15:47]</span> <span class="irc-black">&lt;RedMage&gt; too evil</span><br />
+<span class="irc-date">[15:47]</span> <span class="irc-black">&lt;cml&gt; now...</span><br />
+<span class="irc-date">[15:47]</span> <span class="irc-black">&lt;cml&gt; who's fault was that storm again</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-black">&lt;cml&gt; *looks around this room for the suspect*</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-brick">* RedMage looks at Rain</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-black">&lt;RedMage&gt; Quite fitting now that I think about it.</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-black">&lt;RedMage&gt; Rain caused a storm.</span><br />
+<span class="irc-date">[15:48]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[16:03]</span> <span class="irc-black">&lt;RedMage&gt; i almost won 3 times that game</span><br />
+<span class="irc-date">[16:04]</span> <span class="irc-black">&lt;RedMage&gt; but then soul ragequit hosting</span><br />
+<span class="irc-date">[16:04]</span> <span class="irc-black">&lt;RedMage&gt; &gt;.&gt;</span><br />
+<span class="irc-date">[16:11]</span> <span class="irc-black">&lt;cml&gt; lol</span><br />
+<span class="irc-date">[16:11]</span> <span class="irc-black">&lt;cml&gt; well, I had two and would have had a third I think as well</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-black">&lt;RedMage&gt; I won by killing all vampires, killing the angel, and I would have won by being revived by wolves as a wolf and then helping them win</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-black">&lt;RedMage&gt; as far as I know, you didn't win much because on all 3 of those things you would have been against me</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-black">&lt;RedMage&gt; because you're evil.</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-black">&lt;RedMage&gt; and i killed you for the first one</span><br />
+<span class="irc-date">[16:14]</span> <span class="irc-black">&lt;RedMage&gt; you tried to kill me for the 2nd</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-black">&lt;RedMage&gt; and the 3rd... idk</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-black">&lt;RedMage&gt; game stopped before any of that played out</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-black">&lt;RedMage&gt;  whats this do</span><br />
+<span class="irc-date">[16:15]</span> <span class="irc-black">&lt;RedMage&gt; aw</span><br />
+<span class="irc-date">[16:16]</span> <span class="irc-black">&lt;RedMage&gt; %C01,01 meh</span><br />
+<span class="irc-date">[16:16]</span> <span class="irc-black">&lt;RedMage&gt; aw.</span><br />
+<span class="irc-date">[16:16]</span> <span class="irc-black">&lt;RedMage&gt; Lol</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-black">&lt;cml&gt; I had a few wins based on kills and other things</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-black">&lt;RedMage&gt; Orly? Lolk.</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-black">&lt;RedMage&gt; asdf what</span><br />
+<span class="irc-date">[16:17]</span> <span class="irc-black">&lt;RedMage&gt; orly</span><br />
+<span class="irc-date">[16:18]</span> <span class="irc-black">&lt;RedMage&gt; also, im going to afk, possibly for a few hours. hopefully i'll be back before the round ends.</span><br />
+<span class="irc-date">[16:19]</span> <span class="irc-black">&lt;RedMage&gt; in fact, i prob will.</span><br />
+<span class="irc-date">[16:19]</span> <span class="irc-black">&lt;RedMage&gt; meh</span><br />
+<span class="irc-date">[16:30]</span> <span class="irc-navy">* cml (4e699c83@gateway/web/freenode/ip.78.105.156.131) Quit (Quit: Page closed)</span><br />
+<span class="irc-date">[17:01]</span> <span class="irc-green">* Heavylob1ter (~lauri@dsl-hkibrasgw2-fe27de00-108.dhcp.inet.fi) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[17:03]</span> <span class="irc-navy">* Heavylobster (~lauri@dsl-hkibrasgw2-fe27de00-108.dhcp.inet.fi) Quit (Ping timeout: 264 seconds)</span><br />
+<span class="irc-date">[17:36]</span> <span class="irc-green">* Heavylobster (~lauri@dsl-hkibrasgw2-fe27de00-108.dhcp.inet.fi) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[17:38]</span> <span class="irc-navy">* Heavylob1ter (~lauri@dsl-hkibrasgw2-fe27de00-108.dhcp.inet.fi) Quit (Ping timeout: 248 seconds)</span><br />
+<span class="irc-date">[18:05]</span> <span class="irc-navy">* Drizzleman (~chatzilla@130.41.3.49) Quit (Quit: ChatZilla 0.9.88.2 [Firefox 14.0.1/20120713134347])</span><br />
+<span class="irc-date">[18:24]</span> <span class="irc-black">&lt;Rainboy&gt; Hello world.</span><br />
+<span class="irc-date">[18:26]</span> <span class="irc-navy">* Rainboy (~rainboy@68.205.211.136) Quit (Disconnected by services)</span><br />
+<span class="irc-date">[18:26]</span> <span class="irc-green">* Rainboy` (~rainboy@68.205.211.136) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[18:26]</span> <span class="irc-green">* Rainboy` is now known as Rainboy</span><br />
+<span class="irc-date">[19:29]</span> <span class="irc-green">* A236tdboy is now known as A236tdboy|away</span><br />
+<span class="irc-date">[19:29]</span> <span class="irc-navy">* A236tdboy|away (~A236tdboy@adsl-184-32-208-177.mia.bellsouth.net) Quit (Quit: ChatZilla 0.9.88.2 [Firefox 14.0.1/20120713134347])</span><br />
+<span class="irc-date">[19:48]</span> <span class="irc-green">* ChanServ sets mode +o Rainboy</span><br />
+<span class="irc-date">[19:49]</span> <span class="irc-green">* RedMage was kicked from #TNNWerewolf by Rainboy</span><br />
+<span class="irc-date">[19:49]</span> <span class="irc-green">* RedMage (~Derp@c-24-143-98-55.customer.broadstripe.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[20:29]</span> <span class="irc-green">* HCMacIV (32592c3a@gateway/web/freenode/ip.50.89.44.58) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[21:19]</span> <span class="irc-black">&lt;Rainboy&gt; <a href="http://www.playevo.com/_/1024067-Werewolf-V-Spot-On?page=16#comment1035533">http://www.playevo.com/_/1024067-Werewolf-V-Spot-On?page=16#comment1035533</a></span><br />
+<span class="irc-date">[21:29]</span> <span class="irc-black">&lt;blackbladenine&gt; lol good story</span><br />
+<span class="irc-date">[21:30]</span> <span class="irc-black">&lt;blackbladenine&gt; silly mmage, this is why you don't ignore the mirror mirror on the wall</span><br />
+<span class="irc-date">[21:38]</span> <span class="irc-black">&lt;HCMacIV&gt; lol...yeah great story rain.  blackblade, when you host, im expecting some good stories XD</span><br />
+<span class="irc-date">[21:38]</span> <span class="irc-black">&lt;HCMacIV&gt; so, black, now that the game is over, were you the one who killed me?</span><br />
+<span class="irc-date">[21:39]</span> <span class="irc-black">&lt;blackbladenine&gt; You realize the reason I havn't done this before is because I didn't want to do the story right?</span><br />
+<span class="irc-date">[21:39]</span> <span class="irc-black">&lt;blackbladenine&gt; Nope</span><br />
+<span class="irc-date">[21:39]</span> <span class="irc-black">&lt;HCMacIV&gt; lol</span><br />
+<span class="irc-date">[21:39]</span> <span class="irc-black">&lt;HCMacIV&gt; oh</span><br />
+<span class="irc-date">[21:39]</span> <span class="irc-black">&lt;blackbladenine&gt; I was bad (in a matter of perspective) but I was still wrongly acused</span><br />
+<span class="irc-date">[21:39]</span> <span class="irc-black">&lt;blackbladenine&gt; No</span><br />
+<span class="irc-date">[21:40]</span> <span class="irc-black">&lt;HCMacIV&gt; XD</span><br />
+<span class="irc-date">[21:40]</span> <span class="irc-black">&lt;blackbladenine&gt; I'm doing a halo WW</span><br />
+<span class="irc-date">[21:40]</span> <span class="irc-black">&lt;HCMacIV&gt; oooooo.....if camac hosted i think you could guess what the theme would be XD</span><br />
+<span class="irc-date">[21:40]</span> <span class="irc-black">&lt;blackbladenine&gt; And he's 1c of the few whp also know alot about halo and hosting</span><br />
+<span class="irc-date">[21:41]</span> <span class="irc-black">&lt;blackbladenine&gt; lol</span><br />
+<span class="irc-date">[21:45]</span> <span class="irc-black">&lt;blackbladenine&gt; I don' t think we're quite ready for him to host</span><br />
+<span class="irc-date">[21:45]</span> <span class="irc-black">&lt;blackbladenine&gt; Though mmage woould be thrilled</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-black">&lt;RedMage&gt; hmm</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-black">&lt;RedMage&gt; ohai everyone.</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-black">&lt;blackbladenine&gt; Ohiya Mr. almost winner</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-black">&lt;RedMage&gt; And blackbladenine you better not have me as a writing slave</span><br />
+<span class="irc-date">[21:50]</span> <span class="irc-black">&lt;RedMage&gt; I will kick yur butt</span><br />
+<span class="irc-date">[21:51]</span> <span class="irc-black">&lt;blackbladenine&gt; Got caught, sloppy. just sloppy</span><br />
+<span class="irc-date">[21:51]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[21:51]</span> <span class="irc-black">&lt;RedMage&gt; I didn't get caught, I technically cheated by quoting my event when I was yelling at Elric</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-black">&lt;blackbladenine&gt; Otherwise I would have conscripted Rain istead, and made him a writing slave :P</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-black">&lt;RedMage&gt; So I lost an advantage in response</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-black">&lt;RedMage&gt; a pretty big advantage</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-black">&lt;RedMage&gt; that would have won me the game this round otherwise</span><br />
+<span class="irc-date">[21:52]</span> <span class="irc-black">&lt;blackbladenine&gt; Still got caught for doin it though didn't ya?</span><br />
+<span class="irc-date">[21:53]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[21:53]</span> <span class="irc-black">&lt;RedMage&gt; well, i wouldn't have used a control panel on cml</span><br />
+<span class="irc-date">[21:53]</span> <span class="irc-black">&lt;RedMage&gt; if i had my bonus still</span><br />
+<span class="irc-date">[21:54]</span> <span class="irc-black">&lt;RedMage&gt; i would have waited for cml to stop camping and woulda straight up kicked his butt.</span><br />
+<span class="irc-date">[21:58]</span> <span class="irc-black">&lt;HCMacIV&gt; so, mmage, did you know of any other secret locations other than the admin panel?</span><br />
+<span class="irc-date">[21:59]</span> <span class="irc-black">&lt;RedMage&gt; Database Panel, Mainframe Panel, Server Panel</span><br />
+<span class="irc-date">[21:59]</span> <span class="irc-black">&lt;RedMage&gt; That 3rd one you get for free for going to Admin Isle</span><br />
+<span class="irc-date">[21:59]</span> <span class="irc-black">&lt;RedMage&gt; The 2nd one was in the Castle</span><br />
+<span class="irc-date">[21:59]</span> <span class="irc-black">&lt;RedMage&gt; and the 1st one I guessed</span><br />
+<span class="irc-date">[21:59]</span> <span class="irc-black">&lt;Rainboy&gt; First one was Graveyard unlock.</span><br />
+<span class="irc-date">[21:59]</span> <span class="irc-black">&lt;Rainboy&gt; Elric got it before he died.</span><br />
+<span class="irc-date">[22:00]</span> <span class="irc-black">&lt;Rainboy&gt; But died the same round he was gonna use it to revive HL.</span><br />
+<span class="irc-date">[22:02]</span> <span class="irc-black">&lt;RedMage&gt; only 6 evil players, and most of them died early without doing much</span><br />
+<span class="irc-date">[22:02]</span> <span class="irc-black">&lt;RedMage&gt; or were figured out by village fast</span><br />
+<span class="irc-date">[22:02]</span> <span class="irc-black">&lt;RedMage&gt; poor A236</span><br />
+<span class="irc-date">[22:02]</span> <span class="irc-black">&lt;RedMage&gt; Oh, and my peeker dying R3</span><br />
+<span class="irc-date">[22:02]</span> <span class="irc-black">&lt;RedMage&gt; that kinda sucked</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; Brought him back just to get deleted by Camac</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; &gt;.&gt;</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; So, I still need to freshen up Blade's roles</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; and put a few more in</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; but that can wait until tomorrow cause I have friends</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; ...</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; again</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; so yeah</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;blackbladenine&gt; Wait, Camac deleted Sal?</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;blackbladenine&gt; Was Camac venator?</span><br />
+<span class="irc-date">[22:03]</span> <span class="irc-black">&lt;RedMage&gt; yesh</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;RedMage&gt; yesh</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;blackbladenine&gt; Macyboy what were you?</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;RedMage&gt; Salv was going to get deleted by the security that round anyway</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;RedMage&gt; Ven</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;RedMage&gt; the evil players are</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;RedMage&gt; Me, Blade, Salv - Dimitti</span><br />
+<span class="irc-date">[22:04]</span> <span class="irc-black">&lt;RedMage&gt; Cml, A236, Zain - Starken</span><br />
+<span class="irc-date">[22:05]</span> <span class="irc-black">&lt;blackbladenine&gt; I love how it came down to 1 membor on each minority team very early on, but yet that'</span><br />
+<span class="irc-date">[22:05]</span> <span class="irc-black">&lt;blackbladenine&gt; But yet it came down to them in the end</span><br />
+<span class="irc-date">[22:06]</span> <span class="irc-black">&lt;RedMage&gt; but somehow we still controlled the village and ended up killing eachother right at the end</span><br />
+<span class="irc-date">[22:07]</span> <span class="irc-black">&lt;blackbladenine&gt; Well done to the both of you I must say</span><br />
+<span class="irc-date">[22:07]</span> <span class="irc-black">&lt;blackbladenine&gt; How long did you know cml was Stark?</span><br />
+<span class="irc-date">[22:07]</span> <span class="irc-black">&lt;RedMage&gt; I didn't</span><br />
+<span class="irc-date">[22:07]</span> <span class="irc-black">&lt;RedMage&gt; :3</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-black">&lt;blackbladenine&gt; lol</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-black">&lt;blackbladenine&gt; Any idea how long cml knew (or if he did)</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-black">&lt;Rainboy&gt; CML PMed me earlier today saying he was starting to think MMage might be Dimitti.</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-black">&lt;Rainboy&gt; Before that, no clue.</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[22:08]</span> <span class="irc-black">&lt;RedMage&gt; by the way the game magically didn't end after EVERYONE died</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;blackbladenine&gt; lol</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;blackbladenine&gt; That's so fricken awesome</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;RedMage&gt; I am good liar</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;Rainboy&gt; NOW YOU KNOW WHAT I'VE HAD TO SIT ON FOR THE PAST FEW WEEKS.</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;RedMage&gt; CML is good liar</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;RedMage&gt; We work together</span><br />
+<span class="irc-date">[22:09]</span> <span class="irc-black">&lt;RedMage&gt; to lie to the whole game</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;RedMage&gt; and not a single person could stop us</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;blackbladenine&gt; Rain, no more games with revives, this way when some silly person *cough*HCMacIV*cough* you can tell me what's goin on</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;Rainboy&gt; lol.</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;RedMage&gt; lolwut</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;RedMage&gt; you don't grammar well</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;RedMage&gt; lolol</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;RedMage&gt; that would be the worst game ever</span><br />
+<span class="irc-date">[22:10]</span> <span class="irc-black">&lt;RedMage&gt; ORLY</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; the main WW players, the super smart and good ones</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; are all evil</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;Rainboy&gt; Gonna commandeer Cerdric.</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; GG, its over R1</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;Rainboy&gt; To play.</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;Rainboy&gt; Werewolf.</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; orly</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;blackbladenine&gt; Basically</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;Rainboy&gt; Again.</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; well</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; village gets a new smart person</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; hopefully.</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; Cerd will blow all of us out of the water if he's village</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;RedMage&gt; That man has a goddamn lie detector embedded in one of his eyes</span><br />
+<span class="irc-date">[22:11]</span> <span class="irc-black">&lt;Rainboy&gt; Cerd = Publicly known villager from start of game.</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;Rainboy&gt; CML = Publicly known wolf from start of game.</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; WELP</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;blackbladenine&gt; lo0l</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; SORRY WOLVES</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; GG</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; LOLWUT</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; but they're gonna lynch him obviously</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; and maul cerd</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;blackbladenine&gt; lol Rain is such a nutcase</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; well</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; not maul cerd</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; Docs</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; and stuff</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;RedMage&gt; will be on his shit</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;Rainboy&gt; And neither of those would work very well.</span><br />
+<span class="irc-date">[22:12]</span> <span class="irc-black">&lt;Rainboy&gt; Both will have a nasty habit of coming back.</span><br />
+<span class="irc-date">[22:13]</span> <span class="irc-black">&lt;Rainboy&gt; You can kill 'em all you want, but choose when carefully or you'll just go wasting your kills.</span><br />
+<span class="irc-date">[22:13]</span> <span class="irc-black">&lt;RedMage&gt; auto revive</span><br />
+<span class="irc-date">[22:13]</span> <span class="irc-black">&lt;RedMage&gt; nice</span><br />
+<span class="irc-date">[22:13]</span> <span class="irc-black">&lt;HCMacIV&gt; was afk....were u talking bout me?</span><br />
+<span class="irc-date">[22:14]</span> <span class="irc-black">&lt;HCMacIV&gt; well were you?!?!?!? XD</span><br />
+<span class="irc-date">[22:14]</span> <span class="irc-black">&lt;Rainboy&gt; Nope. &gt;.&gt;</span><br />
+<span class="irc-date">[22:14]</span> <span class="irc-black">&lt;Rainboy&gt; &lt;.&lt;</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; Rain</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; what was HCMac's role?</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; If I may ask.</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;blackbladenine&gt; NO</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;blackbladenine&gt; YOU CAN'T</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; btw rain</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; The undefineds have won!</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;Rainboy&gt; =P</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;blackbladenine&gt; And yet you both lost (the game that is)</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; isn't italics</span><br />
+<span class="irc-date">[22:15]</span> <span class="irc-black">&lt;RedMage&gt; and you should just say Undefined</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;RedMage&gt; or N/A</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;Rainboy&gt; RedMage, the Sarkens have won!</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;RedMage&gt; it doesn't have to be a team</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;Rainboy&gt; The Venators have won!</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;RedMage&gt; The Demati have won</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;Rainboy&gt; The undefinds have won.</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;Rainboy&gt; *undefineds</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;RedMage&gt; its not even a wurd.</span><br />
+<span class="irc-date">[22:16]</span> <span class="irc-black">&lt;Rainboy&gt; print "The " + winner + "s have won!"</span><br />
+<span class="irc-date">[22:17]</span> <span class="irc-black">&lt;Rainboy&gt; no winner</span><br />
+<span class="irc-date">[22:17]</span> <span class="irc-black">&lt;Rainboy&gt; so winner is undefined.</span><br />
+<span class="irc-date">[22:17]</span> <span class="irc-black">&lt;RedMage&gt; lol</span><br />
+<span class="irc-date">[22:17]</span> <span class="irc-black">&lt;RedMage&gt; scripted ending</span><br />
+<span class="irc-date">[22:17]</span> <span class="irc-black">&lt;RedMage&gt; HCMac role, Rain?</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Host Notes: The Medicine Wolf is largely a support role. He can keep the rest of the team healthy and fighting, but must keep himself out of the line of fire. The poor accuracy and visibility of the Forest also limits him and he may have a hard time restoring lives to a specific player. But, the Medicine Wolf can take lives as well as giving them, allowing a secretive kill that cannot be...</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Medicine</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Alignment: Venator</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Class: Sicarius (-10% Kill Visibility)</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Lives: 2</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Luck: 4 </span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Kill Power: Attack with poison. -100% Counter, -20% Accuracy.</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;RedMage&gt; Healer &gt;.&lt;</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Power: Restore a single life to a player each round. Cannot be used on self and only usable in the Forest. </span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Counter: Cannot be countered, but can fail. </span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Special: Nullify all Kill Powers and Basic Kills used in current location for one round.</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Ability: +20% Visibility in Forest and Cornfield, +5 Luck in Forest.</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; ...countered.</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;RedMage&gt; +5 LUCK IN FOREST?</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;RedMage&gt; DAMN</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;Rainboy&gt; Yep.</span><br />
+<span class="irc-date">[22:18]</span> <span class="irc-black">&lt;RedMage&gt; HCMac, Y u no camp in forest constantly</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;RedMage&gt; Also Rain, who was opening the Cornfield for like three rounds in a row?</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;Rainboy&gt; Gives him a full 33% chance of gaining a life each visit to forest.</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;RedMage&gt; Was it Camac, like I thought it was?</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;Rainboy&gt; That was an event that Elric kept getting. &gt;.&gt;</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;RedMage&gt; &gt;.&gt;</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;RedMage&gt; really</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;Rainboy&gt; Yep.</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;Rainboy&gt; Two types of events.</span><br />
+<span class="irc-date">[22:19]</span> <span class="irc-black">&lt;RedMage&gt; oh well.</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;HCMacIV&gt; ....</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; ima go afk now</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;Rainboy&gt; Each location has a specific event.</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; will talk more tomorrow</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; or much later tonight.</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; if people are even still on then</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;Rainboy&gt; And then there's a handful of other ones that have a very small chance of activating.</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; which they wont be</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; because you all live in noob time zones</span><br />
+<span class="irc-date">[22:20]</span> <span class="irc-black">&lt;RedMage&gt; kbai</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-black">&lt;Rainboy&gt; &gt;.&gt;</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-black">&lt;HCMacIV&gt; mmage whats ur timezone?</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-green">* RedMage was kicked from #TNNWerewolf by Rainboy</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-green">* RedMage (~Derp@c-24-143-98-55.customer.broadstripe.net) has joined #TNNWerewolf</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-black">&lt;Rainboy&gt; He's PST</span><br />
+<span class="irc-date">[22:21]</span> <span class="irc-black">&lt;Rainboy&gt; Other side of the nation.</span><br />
+<span class="irc-date">[22:29]</span> <span class="irc-navy">* blackbladenine (~blackblad@67.8.160.166) Quit (Read error: Connection reset by peer)</span><br />
+<span class="irc-date">[22:31]</span> <span class="irc-black">&lt;Rainboy&gt; Roles posted.</span><br />
+<span class="irc-date">[23:19]</span> <span class="irc-green">* Rainboy is now known as Rainboy|Drought</span><br />
